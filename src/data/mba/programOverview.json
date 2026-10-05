@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "description": {
+      "en": "The Master of Business Administration (MBA) from the University of Wolverhampton is designed to develop capable business leaders who can respond effectively to the challenges of today’s dynamic business environment. The programme provides students with advanced knowledge, practical skills, and strategic perspectives required to lead organisations ethically and sustainably.\n\n With a strong focus on leadership, management practice, and contemporary business issues, the MBA programme enables students to enhance their decision-making abilities, expand their professional networks, and develop the confidence required for career advancement in a competitive global marketplace.",
+      "my": "University of Wolverhampton မှ Master of Business Administration (MBA) Programme သည် ယနေ့ခေတ် ပြောင်းလဲတိုးတက်နေသော စီးပွားရေးပတ်ဝန်းကျင်များအတွင်း ထိရောက်စွာ ဦးဆောင်နိုင်မည့် အရည်အချင်းရှိသော Business Leaders များကို ဖွံ့ဖြိုးတိုးတက်စေရန် ရည်ရွယ်ထားပါသည်။\n\n ဤ Programme မှတစ်ဆင့် ကျောင်းသားများသည် အဆင့်မြင့် Business Knowledge များ၊ လက်တွေ့အသုံးချနိုင်သော Management Skills များနှင့် မဟာဗျူဟာမြောက် စဉ်းစားဆုံးဖြတ်နိုင်မှုများကို ရရှိမည်ဖြစ်ပြီး အဖွဲ့အစည်းများကို တာဝန်ယူမှုရှိစွာနှင့် ရေရှည်တည်တံ့စွာ ဦးဆောင်နိုင်ရန် ပြင်ဆင်ပေးပါသည်။\n\n Leadership၊ Management Practice နှင့် ခေတ်ပြိုင် Business Issues များကို အဓိကထားလေ့လာခြင်းအားဖြင့် ကျောင်းသားများသည် Decision-Making Skills များ တိုးတက်လာစေရန်၊ Professional Network များ တည်ဆောက်နိုင်ရန်နှင့် ပြိုင်ဆိုင်မှုမြင့်မားသော Global Business Environment အတွင်း Career တိုးတက်မှုအတွက် လိုအပ်သော ယုံကြည်မှုနှင့် စွမ်းရည်များ ရရှိစေရန် အထောက်အကူပြုပါသည်။"
+    },
+    "aim_of_the_program": [
+      {
+        "en": "The MBA is an internationally recognised postgraduate qualification designed for managers, professionals, and individuals seeking to enhance their leadership and business management capabilities. The programme develops students’ understanding of key business functions, strategic management approaches, and the complex challenges facing organisations in today’s global environment.",
+        "my": "MBA Programme သည် Managers၊ Professionals များနှင့် မိမိတို့၏ Leadership နှင့် Business Management Capabilities များကို မြှင့်တင်လိုသောသူများအတွက် ရည်ရွယ်ထားသည့် နိုင်ငံတကာအသိအမှတ်ပြု Postgraduate Qualification တစ်ခု ဖြစ်ပါသည်။\n\n Programme အတွင်း Business Functions များ၊ Strategic Management Approaches များနှင့် ယနေ့ခေတ် Global Business Environment တွင် အဖွဲ့အစည်းများ ရင်ဆိုင်နေရသော စိန်ခေါ်မှုများကို နားလည်သုံးသပ်နိုင်ရန် လိုအပ်သော အသိပညာများကို ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+      },
+      {
+        "en": "Through a combination of theoretical knowledge and practical learning experiences, students will develop the ability to analyse business situations, make informed decisions, and lead organisations effectively. The programme also encourages responsible management practices and prepares students to contribute positively to their organisations and wider society.",
+        "my": "သီအိုရီဆိုင်ရာ အသိပညာများနှင့် လက်တွေ့အသုံးချနိုင်သော Learning Experiences များ ပေါင်းစပ်လေ့လာခြင်းအားဖြင့် ကျောင်းသားများသည် Business Situations များကို ခွဲခြမ်းစိတ်ဖြာနိုင်ခြင်း၊ အချက်အလက်အပေါ် အခြေခံသော ဆုံးဖြတ်ချက်များ ချမှတ်နိုင်ခြင်းနှင့် အဖွဲ့အစည်းများကို ထိရောက်စွာ ဦးဆောင်နိုင်မည့် စွမ်းရည်များကို ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+      }
+    ],
+    "knowledge": [
+      {
+        "en": "The nature, scope, and complexity of business organisations",
+        "my": "စီးပွားရေးအဖွဲ့အစည်းများ၏ သဘောသဘာဝ၊ လုပ်ငန်းနယ်ပယ်နှင့် ရှုပ်ထွေးမှု"
+      },
+      {
+        "en": "The principles of functional and strategic management",
+        "my": "လုပ်ငန်းပိုင်းဆိုင်ရာနှင့် မဟာဗျူဟာမြောက် စီမံခန့်ခွဲမှု အခြေခံမူများ"
+      },
+      {
+        "en": "Human behaviour within organisational contexts",
+        "my": "အဖွဲ့အစည်းများအတွင်း လူသားတို့၏ အပြုအမူကို ထဲထဲဝင်ဝင် နားလည်ခြင်း"
+      },
+      {
+        "en": "International business relationships and global networks",
+        "my": "နိုင်ငံတကာစီးပွားရေး ဆက်ဆံရေးနှင့် ချိတ်ဆက်မှုကွန်ရက်များကို နားလည်ခြင်း"
+      }
+    ],
+    "skill_development": [
+      {
+        "en": "Leading business and management concepts and principles",
+        "my": "Business နှင့် Management Concepts များကို နားလည်အသုံးချနိုင်မှု "
+      },
+      {
+        "en": "Sustainability and responsible management practices",
+        "my": "Sustainability နှင့် Responsible Management Practices များကို နားလည်အသုံးချနိုင်မှု"
+      },
+      {
+        "en": "Applying theoretical frameworks to real-world business situations",
+        "my": "Theoretical Frameworks များကို လက်တွေ့ Business Situations များတွင် အသုံးချနိုင်မှု "
+      },
+      {
+        "en": "Decision-making skills to navigate complex business challenges",
+        "my": "ရှုပ်ထွေးသော စီးပွားရေးအခြေအနေများကို ထိရောက်စွာ ကိုင်တွယ်ဖြေရှင်းနိုင်မည့် ဆုံးဖြတ်ချက်ချမှတ်ခြင်းစွမ်းရည်"
+      },
+      {
+        "en": "Leadership skills to inspire teams and achieve organisational objectives",
+        "my": "အသင်းအဖွဲ့များကို ဦးဆောင်ပြီး Organisational Objectives များ အောင်မြင်စေရန် Leadership Skills"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "content": {
+      "en": "A lower second honours degree in Computer Science or equivalent.",
+      "my": "ကွန်ပျူတာသိပ္ပံဘာသာရပ် သို့မဟုတ် ယင်းနှင့်ညီမျှသော ဘာသာရပ်တစ်ခုခုတွင် အနည်းဆုံး Lower Second-Class Honours ရရှိထားရမည်။"
+    },
+    "img": "admin1.png",
+    "application_process": {
+      "en": "All elements of your application will be thoroughly reviewed by the Admissions Team. The selection process will take up to eight weeks from the date of completed application submission.",
+      "my": "သင်၏လျှောက်လွှာတွင် ပါဝင်သော အချက်အလက်အားလုံးကို ကျောင်းဝင်ခွင့်အဖွဲ့က သေချာစွာ စိစစ်သုံးသပ်မည်ဖြစ်ပါသည်။ လျှောက်လွှာအပြည့်အစုံ တင်သွင်းသည့်နေ့မှစတင်၍ ရွေးချယ်စိစစ်မှုလုပ်ငန်းစဉ်သည် ရှစ်ပတ်အထိ ကြာမြင့်နိုင်ပါသည်။"
+    }
+  },
+  {
+    "id": 2,
+    "content": {
+      "en": "A Postgraduate Certificate in Computer Science or a related subject with a minimum of grade C in all modules.",
+      "my": "ကွန်ပျူတာသိပ္ပံ သို့မဟုတ် ဆက်စပ်ဘာသာရပ်တစ်ခုတွင် Postgraduate Certificate ရရှိထားပြီး ဘာသာရပ်တိုင်း၌ အနည်းဆုံး Grade C ရရှိထားရမည်။"
+    },
+    "img": "admin2.png"
+  },
+  {
+    "id": 4,
+    "content": {
+      "en": "An academic reference from a member of staff who supervised your undergraduate studies will also be required. This will be requested after your application has been successfully submitted.",
+      "my": "သင်၏ ဘွဲ့ကြိုပညာသင်ယူမှုကို ကြီးကြပ်ပေးခဲ့သော ဆရာ သို့မဟုတ် ဆရာမတစ်ဦးထံမှ ထောက်ခံစာတစ်စောင်လည်း လိုအပ်ပါသည်။ လျှောက်လွှာအောင်မြင်စွာ တင်သွင်းပြီးနောက် အဆိုပါထောက်ခံစာကို တောင်းခံမည်ဖြစ်ပါသည်။"
+    },
+    "img": "admin3.png"
+  },
+  {
+    "id": 3,
+    "content": {
+      "en": "English Language requirements are normally IELTS 6.5 with a minimum of 6.0 in each area (unless otherwise stated) or equivalent accepted qualification English Language Requirements. For further information relating to overseas qualification please use the following link https://www.wlv.ac.uk/international/our-locations/your-country/ ",
+      "my": "အင်္ဂလိပ်ဘာသာစကားဆိုင်ရာ ဝင်ခွင့်လိုအပ်ချက်မှာ ပုံမှန်အားဖြင့် IELTS စုစုပေါင်းအမှတ် 6.5 ဖြစ်ပြီး အပိုင်းတစ်ခုချင်းစီတွင် အနည်းဆုံး 6.0 ရရှိထားရမည်။ အခြားသတ်မှတ်ချက် ဖော်ပြထားခြင်းမရှိပါက ယင်းနှင့်ညီမျှသော လက်ခံထားသည့် အင်္ဂလိပ်ဘာသာစကား အရည်အချင်းလက်မှတ်ကိုလည်း အသုံးပြုနိုင်ပါသည်။ ပြည်ပပညာရေးအရည်အချင်းများနှင့်ပတ်သက်သည့် အသေးစိတ်အချက်အလက်များကို အောက်ပါလင့်ခ်တွင် ကြည့်ရှုနိုင်ပါသည်။ https://www.wlv.ac.uk/international/our-locations/your-country/"
+    },
+    "img": "admin4.png"
+  }
+]

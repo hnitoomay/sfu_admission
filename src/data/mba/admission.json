@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "content": {
+      "en": "A bachelor’s degree with a minimum classification of 2:2 or above.",
+      "my": "Bachelor’s Degree ကို အနည်းဆုံး 2:2 Classification သို့မဟုတ် အထက် ရရှိထားသူ ဖြစ်ရပါမည်။"
+    },
+    "img": "admin1.png",
+    "application_process": {
+      "en": "All elements of your application will be carefully reviewed by the Admissions Team. The selection process may take up to eight weeks from the date your completed application is submitted.",
+      "my": "သင်၏လျှောက်လွှာတွင် ပါဝင်သော အချက်အလက်များအားလုံးကို ကျောင်းဝင်ခွင့်အဖွဲ့က သေချာစွာ စိစစ်သုံးသပ်မည်ဖြစ်ပါသည်။ လျှောက်လွှာအပြည့်အစုံ တင်သွင်းသည့်နေ့မှစတင်၍ ရွေးချယ်စိစစ်မှုလုပ်ငန်းစဉ်သည် ရှစ်ပတ်အထိ ကြာမြင့်နိုင်ပါသည်။"
+    }
+  },
+  {
+    "id": 2,
+    "content": {
+      "en": "Evidence of at least two years of management-level experience within an organisation.Professional qualifications equivalent to a graduate-level qualification may also be considered on an individual basis.",
+      "my": "အဖွဲ့အစည်းတစ်ခုအတွင်း Management Level တာဝန်ယူမှု အတွေ့အကြုံ အနည်းဆုံး ၂ နှစ်ရှိကြောင်း အထောက်အထားတင်ပြနိုင်ရပါမည်။ထို့အပြင် Graduate Level Qualification နှင့် တန်းတူညီမျှသော Professional Qualification များကိုလည်း လျှောက်ထားသူတစ်ဦးချင်းစီအလိုက် သုံးသပ်စဉ်းစားပေးမည် ဖြစ်ပါသည်။"
+    },
+    "img": "admin2.png"
+  },
+  {
+    "id": 3,
+    "content": {
+      "en": "An academic reference from a member of staff who supervised your undergraduate studies will also be required. This will be requested after your application has been successfully submitted.",
+      "my": "လျှောက်ထားသူ၏ Undergraduate Studies ကာလအတွင်း ကြီးကြပ်ပေးခဲ့သော Academic Staff Member တစ်ဦးထံမှ Reference Letter တင်ပြရန် လိုအပ်ပါသည်။ ယင်း Reference ကို Application အောင်မြင်စွာ တင်သွင်းပြီးနောက် တောင်းခံသွားမည် ဖြစ်ပါသည်။"
+    },
+    "img": "admin3.png"
+  },
+  {
+    "id": 4,
+    "content": {
+      "en": "English Language Requirement <br> Standard English language requirements: IELTS 6.5 or equivalent.",
+      "my": "သတ်မှတ်ထားသော English Language Requirement အနေဖြင့် IELTS 6.5 သို့မဟုတ် တန်းတူညီမျှသော အရည်အချင်း လိုအပ်ပါသည်။"
+    },
+    "img": "admin4.png"
+  }
+]

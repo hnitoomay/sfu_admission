@@ -1,0 +1,11 @@
+Errorboundary -> Error Boundary (မှားယွင်းမှုကို ထိန်းချုပ်သော Component) သည် React တွင် JavaScript မှာ error ဖြစ်တဲ့အခါမှာ app တစ်ခုလုံး error မဖြစ်စေဘဲ fallback UI တစ်ခု ပြနိုင်တဲ့ component ဖြစ်ပါတယ်။
+
+Lazy Loading ->  Lazy Loading (နှေးနှေးဖြင့် Load ချခြင်း) သည် React Component တွေကို အလိုရှိမှသာ load လုပ်တဲ့နည်းလမ်းဖြစ်ပြီး, app performance ကို တိုးတက်စေပါတယ်။
+
+Suspense -> Suspense (မှီခိုခြင်း) သည် React မှာ asynchronous operations (API fetching, lazy loading) တွေကို handle လုပ်ဖို့ သုံးပါတယ်။ UI ထဲမှာ loading UI (spinner, text) တစ်ခုကို fallback အနေနဲ့ ပြနိုင်ပါတယ်။
+
+use strict mode -> 
+👉 Debugging Tool – React application မှာ မဖြစ်သင့်တဲ့ code, unsafe functions, deprecated features တွေကို သတိပေးပါတယ်။
+👉 Only for Development – StrictMode ဟာ development mode မှာပဲ အလုပ်လုပ်မယ်, production mode မှာ မသက်ရောက်ပါ။
+👉 Performance Improvements – App performance ကို တိုးတက်စေပြီး, future React versions မှာ error မဖြစ်အောင် protect လုပ်နိုင်ပါတယ်။
+

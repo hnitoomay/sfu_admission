@@ -1,0 +1,2612 @@
+[
+  {
+    "id": 1,
+    "subject": {
+      "en": "General Management and Leadership",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 101: General Management and Leadership",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Understand the management principles, skills, and roles and responsibilities of managers in organizational settings.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Organizational Change and Innovation",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Learn strategies for managing change and fostering innovation and adaptability.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 6 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Leadership Styles",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Explore the similarities and differences among transactional, charismatic and transformational leadership and how to inspire more follower commitment and optimism.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Leadership in Organizations, Ch. 12 (Yukl)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Decision Making",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Develop decision-making skills using critical and analytical thinking to solve complex problems and make informed decisions.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 7 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Organizational Structure and Design",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Understand how different organizational structures influence organizational effectiveness and employee behavior.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Chs. 10 & 11 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Team Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Gain skills in managing teams, managing conflicts, and fostering a productive and inclusive workplace culture.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 13 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "7",
+        "session_topic": {
+          "en": "Power and Influence in Leadership",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Understand how power is acquired, its effects on leadership, and how leaders use influence tactics.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Leadership in Organizations, Ch. 8 (Yukl)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "8",
+        "session_topic": {
+          "en": "Theories of Motivation",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Explore theories of motivation and their practical applications in the workplace, as well as methods for controlling and guiding organizational operations towards set goals.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 16 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "9",
+        "session_topic": {
+          "en": "Leadership and Followership",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Explore how leaders and followers interact, manage impressions, and influence each other.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Leadership in Organizations, Ch. 9 (Yukl)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "10",
+        "session_topic": {
+          "en": "Organizational Control",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Learn about controlling organizational performance and contemporary issues in control.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Management: A Practical Introduction” by Angelo Kinicki and Brian K. Williams, 10th Edition, Mc Graw Hill, 2022.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Leadership: Theory and Practice” by Peter G. Northouse, SAGE Publications, 2018  M02 9 - 528 pages.",
+        "my": "myanmar text"
+      }
+    ],
+    "module_overview": {
+      "en": "This module aims to develop a comprehensive understanding of general management principles and leadership strategies in the dynamic and complex business environment. Students will explore key concepts in organizational management, strategic leadership, and decision-making to enhance their managerial skills.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Demonstrate a comprehensive understanding of general management theories and practices",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply strategic thinking and decision-making skills in complex business scenarios",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Evaluate leadership styles and their impact on organizational culture and performance",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Develop and lead high-performing teams in diverse business contexts",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subject": {
+      "en": "Accounting and Financial Reporting",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 102: Accounting and Financial Reporting",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Financial Accounting",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Financial Statements and Business Decisions",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 1: Introduction to Financial Statements",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "The Accounting Information System",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Investing and Financing Decisions and the Balance Sheet",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 2: Overview of Corporate Finance",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Income Statement and Related Information",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Operating Decisions and the Income Statement",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 3: Measuring Income",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Balance Sheet and Statement of Cash Flows",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Adjustments, Financial Statements, and the Quality of Earnings",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Communicating and Interpreting Accounting Information",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapters 4 & 5: Completing the Accounting Cycle; Cash and Internal Controls",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Accrual Accounting Concepts",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Adjustments, Financial Statements, and the Quality of Earnings",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 4: Completing the Accounting Cycle Continued",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Reporting and Analyzing Inventory and Receivables",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Reporting and Analyzing Inventory; Internal Control and Cash",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 6: Inventory and Cost of Goods Sold; Chapter 7: Cash and Receivables",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "7",
+        "session_topic": {
+          "en": "Long-lived Assets and Liabilities",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Reporting and Analyzing Long-Lived Assets",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Reporting and Analyzing Liabilities",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 8: Long-Term Assets; Chapter 9: Liabilities",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "8",
+        "session_topic": {
+          "en": "Stockholders' Equity and Cash Flow",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Reporting and Analyzing Stockholders' Equity",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Communicating and Interpreting Accounting Information",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 11: Stockholders' Equity; Chapter 5: Statement of Cash Flows",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "9",
+        "session_topic": {
+          "en": "Financial Statement Analysis",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Financial Statement Analysis",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Chapter 13: Financial Statement Analysis",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "10",
+        "session_topic": {
+          "en": "Review and Exam Preparation",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Review of All Covered Chapters",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Comprehensive Review of All Textbook Chapters",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "module_overview": {
+      "en": "This module aims to provide MBA students with a comprehensive  understanding of accounting principles and financial reporting  practices. Students will explore financial statement analysis, accounting standards, and the role of financial reporting in decision-making.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Identify the role of generally accepted accounting principles (GAAP) and FRS in determining financial statement content",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Understand the accounting information users involved in accounting communication process",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze and interpret a company’s performance based on financial analysis methods",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Recognize how a company’s business strategy affects financial statement analysis",
+        "my": "myanmar text"
+      }
+    ],
+    "ref_txt_book": []
+  },
+  {
+    "id": 3,
+    "subject": {
+      "en": "Managerial Economics",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 201: Managerial Economics",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "30",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Managerial Economics",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of managerial economics",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Role of managerial economics in decision-making",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Economic Theories and Decision-making",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Application of microeconomic and macroeconomic principles",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Behavioral economics and its relevance to managers",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Economic Environment Analysis",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Global economic trends and their implications",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Impact of economic indicators on business  decisions",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Market Structures and Pricing:",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Perfect competition, monopoly, oligopoly, and monopolistic competition",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Pricing strategies and their economic rationale",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Cost Analysis and Production Decisions",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Cost structures and analysis",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Production functions and optimal resource allocation",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Economic Forecasting and Business Planning",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Time series analysis and economic forecasting",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Integrating economic insights into strategic business planning",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 18 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "module_overview": {
+      "en": "This module introduces the principles of managerial economics,  providing a foundation for understanding how economic analysis can  inform decision-making within organizations. It covers economic  theories and methodologies relevant to managerial decision-making  in a business context.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Apply economic theories and concepts to analyze and solve  complex business problems.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Evaluate the economic environment and its impact on  business decision-making.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Assess the demand and supply dynamics in different market  structures and industries.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze production costs and make informed pricing  decisions for optimal revenue generation.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply game theory and strategic decision-making in  competitive business scenarios.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Communicate economic insights effectively to support  managerial decision processes.",
+        "my": "myanmar text"
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Managerial Economics: Analysis, Problems, Cases” Lila J. Truett and Dale B. Truett, 4th Edition, Cincinnati: College Division, South-Western Pub. Co., 1992, 634 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Managerial Economics & Business Strategy” by Michael Baye and Jeff Prince, 10th Edition, ISBN10: 1260940543 | ISBN13: 9781260940541.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "subject": {
+      "en": "Business Statistics and Data Analytics",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 202: Business Statistics and Data Analytics for Decision Making",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "30",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Business Statistics and Data Analytics",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Role of statistics in decision making",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Basic concepts and terminology",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Ethical considerations in data analysis",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Descriptive Statistics and Data Visualization",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Measures of central tendency and dispersion",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Data visualization techniques (e.g., charts, graphs)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Exploratory data analysis",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Probability Distributions and Sampling",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Probability concepts",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Discrete and continuous probability  distributions",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Sampling techniques and sampling distributions",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Inferential Statistics and Hypothesis Testing",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Estimation and confidence intervals",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Hypothesis testing procedures",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Parametric and non-parametric tests",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Regression Analysis and Predictive Modeling",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Simple and multiple regression analysis",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Model building and selection",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Predictive analytics techniques",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Time Series Analysis and Forecasting",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Time series data and components",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Forecasting methods (e.g., moving averages,  exponential smoothing)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Seasonality and trend analysis",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "Business Statistics: A Decision-Making Approach by David F. Groebner, Patrick W.  Shannon, and Phillip C. Fry, 10th Edition, Pearson Education, 2017, ISBN-  0134508130, 9780134508139, 864 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Foster Provost and Tom Fawcett, 1st Edition, O'Reilly Media, 2013,413 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by  Wes McKinney, O'Reilly Media, Inc., 2017, 550 pages",
+        "my": "myanmar text"
+      }
+    ],
+    "module_overview": {
+      "en": "This module is designed to equip students with the knowledge and skills necessary to utilize statistical techniques and data analytics tools for effective decision-making in business contexts. Through hands-on exercises, case studies, and practical applications, students will learn to analyze data, derive insights, and make  informed decisions to solve real-world business problems",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Apply statistical methods to analyze and interpret business data.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Utilize data visualization techniques to communicate  insights effectively.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Develop predictive models using statistical and machine  learning techniques.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply data analytics tools to extract meaningful information  from large datasets.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Critically evaluate the reliability and validity of data  analysis results.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Make informed decisions based on data-driven insights to  solve business problems. ",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "subject": {
+      "en": "Production and Operations Management",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 301: Production and Operations Management",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "30",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module is designed to equip the knowledge and skills necessary to manage production and operations in a business context. It covers key principles, strategies, and tools for optimizing processes and ensuring efficient resource utilization.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Understand the principles and concepts of production and  operations management.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply Operations Strategy",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Design and Manage Quality Systems",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Optimize Production Processes.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Utilize Technology in Operations",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Capacity Planning and Management",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Production and Operations Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of production and operations management",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Historical evolution and contemporary trends",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Operations Strategy and Competitiveness",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Aligning operations strategy with business goals",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Competitive priorities and trade-offs",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Quality Management and Continuous Improvement",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Total Quality Management (TQM)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Six Sigma and Lean principles",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Production Process Design and Improvement",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Process analysis and improvement technique",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Strategies for waste reduction and efficiency  improvement",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Technology in Operations",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Role of technology in modern operations",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Industry 4.0 and its impact",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Capacity Planning and Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Principles of capacity planning",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Strategies for effective capacity management",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Production and Operations Analysis” by Steven Nahmias and Tava Lennon Olsen, 7th Edition, Waveland Press, Inc, ISBN-10: 1478623063, ISBN-13: 978-1478623069, 820 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Operations Strategy: Competing in the 21st Century” by Sara Lynn Beckman,  International Edition, McGraw-Hill, 2008.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "subject": {
+      "en": "Strategic People Management",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 302: Strategic People Management",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "30",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module is designed to provide a deep understanding of Human Resources Management (HRM) principles, strategies, and practices. It covers key topics related to talent acquisition, employee development, performance management, and strategic HR  planning.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Understand HRM Fundamentals",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Talent Acquisition and Recruitment",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Employee Development and Training",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Performance Management",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Employee Engagement and Retention",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Compensation and Benefits Management",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Human Resources Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of human resources management",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Evolution and contemporary trends in HRM",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Talent Acquisition and Recruitment",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Talent acquisition strategies",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Recruitment and selection processes",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Employee Development and Training",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Employee development programs",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Training needs analysis and learning initiatives",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Performance management systems",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Appraisal processes and feedback",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Employee Engagement and Retention",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Actors influencing employee engagement",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Retention strategies and job satisfaction",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Compensation and Benefits Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Designing competitive compensation structures",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Employee benefits programs",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Human Resource Management” by Gary Dessler, 16th Edition, Pearson (September15, 2020), ISBN-13: 9780135637289.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Human Resource Management: Gaining a Competitive Advantage” by Raymond A.  Noe, John R. Hollenbeck, Barry Gerhart, and Patrick M. Wright, 13th Edition, ISBN10:  1264188897 | ISBN13: 9781264188895.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Strategic Human Resource Management, Employee Training & Development” by Jeffrey A. Mello, and Raymond A. Noe, 2nd Edition, 2006, Mason, Ohio:  Thomson/South-Western.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "subject": {
+      "en": "Financial Decision Making",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 401: Financial Decision Making",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module aims to provide MBA students with advanced knowledge and skills in management accounting. Students will  explore various management accounting techniques, cost analysis,  budgeting, and performance measurement to support strategic  decision-making within organizations.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Apply advanced costing methods such as activity-based  costing (ABC) and target costing",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze and interpret budgets for planning and control purposes",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply cost-volume-profit analysis to assess profitability and break-even points",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze and interpret performance reports for decision-making.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Evaluate capital budgeting techniques for investment decisions",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Advanced Costing Techniques:",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of advanced costing techniques",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Role of advanced costing techniques in organizational decision-making",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Budgeting and Control",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Budgeting processes and techniques",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Cash budgeting and capital budgeting",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Cost-Volume Profit Analysis",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and components of CVP analysis",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Contribution margin and its significance Break-even analysis",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Measurement Systems",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for organizational performance",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Variance analysis and corrective action",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Capital Budgeting and Investment Analysis",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and importance of capital budgeting",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Differentiate between short-term and long-term decision-making",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Calculate internal rate of return (IRR) and its interpretation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Compare and contrast NPV and IRR  methods",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Financial Management: principles and applications” by Titman and Sheridan, 11th Edition, Volume – 11, Boston: Prentice Hall, 2011.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Financial Markets and Corporate Strategy: European Edition” by David Hillier,  Mark Grinblatt, Sheridan Titman, 3rd Edition, McGrawHill, 2023.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "subject": {
+      "en": "Strategic Marketing Management",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 402: Strategic Marketing Management",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module provides a comprehensive understanding of marketing principles and strategies. It covers key concepts, frameworks, and  tools necessary for developing effective marketing plans and achieving business objectives.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Understand Marketing Fundamentals",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Conduct Market Research and Analysis",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Develop Marketing Strategies",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Create and Manage Brand Equity",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Implement Integrated Marketing Communications (IMC)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Implement Digital Marketing Strategies",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Marketing Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition of marketing",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Evolution and contemporary trends in  marketing",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Market Research and Analysis:",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Research methodologies and techniques",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Competitor analysis and market segmentation",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Marketing Strategies",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Formulating marketing strategies",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Segmentation, targeting, and positioning (STP)",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Brand Equity Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Importance of brand equity",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Brand identity, image, and positioning",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Integrated Marketing Communications (IMC)",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Components of IMC",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Advertising, public relations, and promotions",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Marketing Management” by Philip Kotler and Kevin Lane Keller, 16th Edition, Pearson Education, 2021, ISBN: 0135887151, 9780135887158, 608 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Principles of Marketing” by Philip Kotler and Gary Armstrong, 12th Edition,  Illustrated, Pearson/Prentice Hall, 2008, ISBN: 0132390027, 9780132390026, 599  pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Marketing Strategy: A Decision-Focused Approach” by Orville C. Walker Jr. and John Mullins, 8th Edition, McGraw Hill, (January 24, 2013), ISBN-10: 0078028949,  ISBN-13: 978-0078028946, 384 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Marketing Management” by Saxena, Rajan, 4th Edition, Tata McGraw Hill Education  Pvt. Ltd. 2009, New Delhi.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "subject": {
+      "en": "Digital Transformation and Innovation Management",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 501: Digital Transformation and Innovation Management",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module provides students with an understanding of digital  transformation strategies and innovation management techniques  within the context of contemporary business environments. Students will explore theoretical frameworks, practical tools, and  case studies to develop critical thinking and analytical skills necessary for effective digital transformation and innovation  management.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Critically evaluate the concept of digital transformation and  its implications for business strategy",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze the role of innovation in driving organizational  change and competitiveness",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply strategic frameworks to assess the impact of digital  technologies on business models and operations",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Digital  Transformation",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definitions and concepts",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Drivers and motivations",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Theoretical perspectives",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Digital Strategy and Business Models",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Strategic planning for digital transformation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Business model innovation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Case studies",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Innovation Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "The innovation processes",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Types of innovation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Managing innovation ecosystems",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Digital Technologies and Disruption",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Emerging technologies (e.g., AI, IoT, Blockchain)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Industry 4.0 and digital disruption",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Implications for business",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Digital Transformation Challenges and Opportunities",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Organizational readiness",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Change management",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Risk assessment and mitigation",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Implementation of Digital Transformation Initiatives",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Project management methodologies",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Success factors and best practices",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Digital Transformation: Survive and Thrive in an Era of Mass Extinction” by Thomas M. Siebel, RosettaBooks, 2019, 0795352646, 9780795352645, 253 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Leading Digital: Turning Technology into Business Transformation” by George  Westerman, Didier Bonnet and Andrew McAfee, Harvard Business Press Books, 2014, 304 page(s)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "subject": {
+      "en": "Sustainable Strategic Management",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 502: Sustainable Strategic Management",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module focuses on integrating sustainability principles into the strategic decision-making process of organizations. It aims to equip  students with the knowledge and skills needed to navigate the complex landscape of sustainable business practices.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Strategic Integration of Sustainability",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Stakeholder Engagement and Communication",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Metrics and Measurement",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Innovation and Entrepreneurship for Sustainability",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Global Perspectives on Sustainability",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Sustainable Strategic Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Defining sustainability in a business context",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Historical evolution and current trends in  sustainable management.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Strategic Analysis and Planning",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Integrating sustainability considerations into SWOT analysis.",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Developing sustainable business models and  strategic plans",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Stakeholder Engagement and Communication",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Identifying key stakeholders and their interests.",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Strategies for effective communication and engagement.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Metrics and Measurement",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for sustainability",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Sustainability reporting frameworks (e.g.,  GRI) and standards.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Innovation and Entrepreneurship for  Sustainability",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Examining sustainable innovation and entrepreneurship",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Case studies of successful sustainable business ventures.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Global Dimensions of Sustainable Management",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Understanding global challenges and opportunities in sustainability.",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Cross-cultural perspectives on sustainable  business practices.",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Sustainable Strategic Management” by Stead, W. Edward, Armonk, N.Y.: M.E. Shape, 2004.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Corporate Sustainability: Integrating Performance and Reporting” by Bernhard  Ebbinghaus and Wolfgang Stascheit, Wiley, 2012, ISBN: 9781118122365",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“The Sustainable MBA: A Business Guide to Sustainability” by Giselle Weybrecht, 1st  Edition, 2012, ISBN:9781118760635 |Online ISBN:9781118760628.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Strategic Management: Concepts and Cases” by Frank T. Rothaermel, 6th Edition, McGraw-Hill Education, 2023, ISBN-10:1266191860, ISBN-13:978-1266191862, 576 pages.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "subject": {
+      "en": "Entrepreneurship and Business Planning",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 601: Entrepreneurship and Business Planning",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module is designed to equip MBA students with the knowledge, skills, and mindset necessary to identify, evaluate, and capitalize on  entrepreneurial opportunities. The module explores the principles of innovation, the development of business ideas, and the strategic  management of entrepreneurial ventures. Students will engage in  practical exercises, case studies, and real-world projects to enhance  their ability to navigate the dynamic landscape of entrepreneurship.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Understand Entrepreneurship Fundamentals",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Opportunity Recognition and Feasibility Analysis",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Business Model Development",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Innovation Strategies and Creativity",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Entrepreneurial Finance and Funding Strategies",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Marketing and Sales for Entrepreneurs",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Entrepreneurship and  Innovation",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of entrepreneurship",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Evolution and contemporary trends in entrepreneurship",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Opportunity Recognition and Feasibility Analysis",
+          "my": "myanmar text"
+        },
+        "learning-obj": [
+          {
+            "en": "Identifying and evaluating business opportunities",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Feasibility analysis for new ventures",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Business Model Development",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Strategies for fostering a culture of innovation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Creative thinking and problem-solving techniques",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Entrepreneurial Finance and Funding Strategies",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Financing options for entrepreneurial ventures",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Financial strategies for startup success",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Marketing and Sales for Entrepreneurs",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Marketing strategies for startups",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Sales and customer acquisition strategies",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Innovation Strategies and Creativity",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Strategies for fostering a culture of innovation",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Creative thinking and problem-solving techniques",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "myanmar text"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Entrepreneurship: Successfully Launching New Ventures” by Bruce Barringer and R.Ireland, Updated Global Edition, 6th Edition, Pearson, ISBN-10:1292402822, ISBN-  13:978-1292402826, 624 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers” by Alexander Osterwalder and Yves Pigneur, 1st Edition, John Wiley and  Sons, 2010, ISBN-10:9780470876411, ISBN-13:978-0470876411, 288 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Design a Better Business: New Tools, Skills, and Mindset for Strategy and  Innovation” by Patrick Van Der Pijl, Justin Lokitz, and Lisa Kay Solomon, 1st Edition,  Wiley, 2016, ISBN-10:1119272114, ISBN-13:978-1119272113, 272 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create  Radically Successful Businesses” by Eric Ries, 1st Edition, Crown Publishing Group, Division of Random House Inc, 2011, ISBN-10:9780307887894, ISBN-13:978-  0307887894, 304 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Enterprise: Entrepreneurship and Innovation: Concepts, Contexts and  Commercialization” by Robin Lowe and Sue Marriott, Butterworth-Heinemann, 2006.",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "subject": {
+      "en": "Environmental, Social Governance & Business Ethics",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 602: ESG and Business Ethics (or) CSR and Business Ethics",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "45",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module is designed to enable students to critically engage with the concepts of Corporate Social Responsibility (CSR) and  Business Ethics within the context of contemporary business practices. Students will explore theoretical frameworks, case  studies, and practical applications to understand the ethical  responsibilities of businesses and the impact of CSR on  organizational performance and society.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Critically evaluate the theoretical foundations of CSR and  Business Ethics",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Analyze the role of CSR in organizational strategy,  governance, and stakeholder engagement",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Assess the ethical dilemmas faced by businesses in various  operational contexts.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Apply ethical decision-making frameworks to real-world  business scenarios.",
+        "my": "myanmar text"
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Business Ethics: Concepts and Cases” by Manuel G. Velasquez, 8th Edition, Pearson, 2017, 0133832392, 9780133832396, 436 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Corporate Social Responsibility: Definition, Core Issues, and Recent Developments”  by Brent D. Beal, SAGE Publications, 2013, 1483313530, 9781483313535, 112 pages.",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to CSR and Business Ethics:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Definitions and concepts",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Historical evolution",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Theoretical perspectives",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "The Business Case for CSR:",
+          "my": "myanmar text"
+        },
+        "learningObj": [
+          {
+            "en": "Stakeholder theory",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Triple bottom line approach",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Corporate governance and ethics",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Ethical Theories and Decision Making:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Utilitarianism, deontology, and virtue ethics",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Ethical decision-making models",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Case studies",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "CSR Strategy and Implementation:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "CSR frameworks (e.g., ISO 26000, GRI)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Supply chain ethics",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Employee engagement and diversity",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Environmental Sustainability and Social Responsibility:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Sustainable development goals (SDGs)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Environmental management systems",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Social impact assessment",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "CSR Reporting and Transparency:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Sustainability reporting standards (e.g., GRI,SASB)",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Integrated reporting",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Assurance and verification",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "subject": {
+      "en": "Research Methodology (MBA 701)",
+      "my": "myanmar text"
+    },
+    "title": {
+      "en": "MBA 701: Research Methodology",
+      "my": "myanmar text"
+    },
+    "credit": {
+      "en": "3",
+      "my": "myanmar text"
+    },
+    "learning_hour": {
+      "en": "44",
+      "my": "myanmar text"
+    },
+    "module_overview": {
+      "en": "This module introduces students to the fundamental principles and techniques of research methodology, equipping them with the skills  necessary to design, conduct, and analyze research relevant to business and management contexts.",
+      "my": "myanmar text"
+    },
+    "learning_outcome": [
+      {
+        "en": "Understand Research Fundamentals",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Research Design and Formation",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Data Collection Methods",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Sampling Techniques",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Data Analysis and Interpretation",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Research Ethics and Interpretation",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Research Ethics and Integrity",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Literature Review and Reviewing Research",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Research Project Proposal",
+        "my": "myanmar text"
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Research Methods for Business: A Skill Building Approach” by Roger Bougie and Uma Sekaran, 8th Edition, Wiley, 2019, ISBN:978-1-119-56124-8, 432 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Research Methods for Business Students” by Mark N.K. Saunders, Philip Lewis and  Adrian Thornhill, 8th Edition, Pear38son, 2019, ISBN:9781292208787, 872 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Research Design: Qualitative, Quantitative, and Mixed Methods Approaches” by John W. Creswell and J. David Creswell, 6th Edition, SAGE Publications Inc, 2022, ISBN-  13:978-1071817940, 320 pages.",
+        "my": "myanmar text"
+      },
+      {
+        "en": "“Business Research Methods” by Emma Bell, Bill Harley and Alan Bryman, 6th Edition, Oxford University Press, 2022, ISBN-10:0198869444, ISBN-13:978-  0198869443, 696 pages.",
+        "my": "myanmar text"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Research Methodology:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Definition and scope of research in business",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Historical evolution and contemporary trends  in business research",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Research Design and Formulation:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Formulating research questions and hypotheses",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Developing research designs for different  objectives",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Data Collection Methods:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Surveys, interviews, observations, and experiments",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Developing data collection instruments",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Sampling Techniques:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Probability and non-probability sampling methods",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Developing and justifying sampling strategies",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Data Analysis and Interpretation:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Statistical and qualitative data analysis techniques",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Interpreting and presenting research findings",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Research Ethics and Integrity:",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Ethical considerations in business research",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Ensuring research integrity and compliance",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "7",
+        "session_topic": {
+          "en": "Literature Review and Reviewing Research",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Conducting comprehensive literature reviews",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Critically evaluating and reviewing existing  research studies",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      },
+      {
+        "week": "8",
+        "session_topic": {
+          "en": "Research Project Proposal",
+          "my": "myanmar text"
+        },
+        "learning_obj": [
+          {
+            "en": "Developing a research project proposal",
+            "my": "myanmar text"
+          },
+          {
+            "en": "Presenting and defending the research proposal",
+            "my": "myanmar text"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "",
+          "my": "myanmar text"
+        }
+      }
+    ]
+  }
+]

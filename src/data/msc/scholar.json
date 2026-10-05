@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "en": "May Thu Thu Han",
+      "my": "မေသူသူဟန်"
+    },
+    "type": "full",
+    "programme": {
+      "en": "University of Wolverhampton's MSc (Computer Science) at Strategy First",
+      "my": "University of Wolverhampton's MSc (Computer Science) at Strategy First"
+    },
+    "batch": {
+      "en": "Batch-2 . Yangon",
+      "my": "Batch-2 . Yangon"
+    },
+    "year": {
+      "en": "2025-2026",
+      "my": "2025-2026"
+    },
+    "image": "/img/msc/scholars/May Thu Thu Han.webp"
+  },
+  {
+    "name": {
+      "en": "Hein Zarni Tun",
+      "my": "ဟိဏ်းဇာနည်ထွန်း"
+    },
+    "type": "full",
+    "programme": {
+      "en": "University of Wolverhampton's MSc (Computer Science) at Strategy First",
+      "my": "University of Wolverhampton's MSc (Computer Science) at Strategy First"
+    },
+    "batch": {
+      "en": "Batch-1 . Yangon",
+      "my": "Batch-1 . Yangon"
+    },
+    "year": {
+      "en": "2025-2026",
+      "my": "2025-2026"
+    },
+    "image": "/img/msc/scholars/Hein Zarni Tun.webp"
+  },
+  {
+    "name": {
+      "en": "Khin Thandar Hlaing",
+      "my": "ခင်သန္တာလှိုင်"
+    },
+    "type": "future-teacher",
+    "programme": {
+      "en": "University of Wolverhampton's MSc (Computer Science) at Strategy First",
+      "my": "University of Wolverhampton's MSc (Computer Science) at Strategy First"
+    },
+    "batch": {
+      "en": "Batch-3 . Yangon",
+      "my": "Batch-3 . Yangon"
+    },
+    "year": {
+      "en": "2026-2027",
+      "my": "2026-2027"
+    },
+    "image": "/img/msc/scholars/Khin Thandar Hlaing.webp"
+  },
+  {
+    "name": {
+      "en": "Wutt Yee Htoo",
+      "my": "ဝတ်ရည်ထူး"
+    },
+    "type": "pay-it-forward",
+    "programme": {
+      "en": "University of Wolverhampton's MSc (Computer Science) at Strategy First",
+      "my": "University of Wolverhampton's MSc (Computer Science) at Strategy First"
+    },
+    "batch": {
+      "en": "Batch-1 . Yangon",
+      "my": "Batch-1 . Yangon"
+    },
+    "year": {
+      "en": "2025-2026",
+      "my": "2025-2026"
+    },
+    "image": "/img/msc/scholars/Wutt Yee Htoo.webp"
+  }
+]

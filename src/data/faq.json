@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "en": "Which university offers this MBA?",
+      "my": "ဤ MBA ဘွဲ့အစီအစဉ်ကို မည်သည့်တက္ကသိုလ်က ပေးအပ်ပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "This MBA program is offered by Strategy First University.",
+        "my": "ဤ MBA ဘွဲ့အစီအစဉ်ကို Strategy First University က ပေးအပ်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": {
+      "en": "What are the requirements for the SFU MBA Program?",
+      "my": "SFU MBA အစီအစဉ်တက်ရောက်ရန် မည်သည့်အရည်အချင်းများ လိုအပ်ပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "You need a degree and at least two years of experience. An IELTS score of 6.5 is recommended.",
+        "my": "ဘွဲ့တစ်ခုနှင့် အနည်းဆုံး လုပ်ငန်းအတွေ့အကြုံ နှစ်နှစ်ရှိရန် လိုအပ်ပါသည်။ IELTS အမှတ် 6.5 ရရှိထားရန် အကြံပြုပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": {
+      "en": "How many subjects are there in the SFU MBA?",
+      "my": "SFU MBA အစီအစဉ်တွင် ဘာသာရပ်မည်မျှ ပါဝင်ပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "There are 12 subjects for the General MBA and 14 subjects for the Specialized MBA.",
+        "my": "General MBA တွင် ဘာသာရပ် ၁၂ ခုနှင့် Specialized MBA တွင် ဘာသာရပ် ၁၄ ခု ပါဝင်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": {
+      "en": "Tell me about the MBA school fees.",
+      "my": "MBA သင်တန်းကြေးများအကြောင်း ပြောပြပေးပါ။"
+    },
+    "answer": [
+      {
+        "en": "MBA General Program fees are 11,000,000 kyats for both online and blended-learning students.",
+        "my": "MBA General အစီအစဉ်၏ သင်တန်းကြေးမှာ အွန်လိုင်းနှင့် ပေါင်းစပ်သင်ကြားရေး တက်ရောက်သူနှစ်မျိုးစလုံးအတွက် ကျပ် ၁၁,၀၀၀,၀၀၀ ဖြစ်ပါသည်။"
+      },
+      {
+        "en": "MBA Specialized Program fees are 11,000,000 kyats for both online and blended-learning students.",
+        "my": "MBA Specialized အစီအစဉ်၏ သင်တန်းကြေးမှာ အွန်လိုင်းနှင့် ပေါင်းစပ်သင်ကြားရေး တက်ရောက်သူနှစ်မျိုးစလုံးအတွက် ကျပ် ၁၁,၀၀၀,၀၀၀ ဖြစ်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": {
+      "en": "Is there a loan or installment option for the SFU MBA program?",
+      "my": "SFU MBA အစီအစဉ်အတွက် ပညာရေးချေးငွေ သို့မဟုတ် အရစ်ကျပေးချေနိုင်သည့် အစီအစဉ်ရှိပါသလား။"
+    },
+    "answer": [
+      {
+        "en": "Yes, there will be an AYA Education Loan available for installment payments.",
+        "my": "ရှိပါသည်။ သင်တန်းကြေးကို အရစ်ကျပေးချေနိုင်ရန် AYA ပညာရေးချေးငွေအစီအစဉ်ကို ရယူနိုင်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": {
+      "en": "How much do I need to pay for the SFU MBA exam fees?",
+      "my": "SFU MBA စာမေးပွဲကြေးအတွက် မည်မျှပေးဆောင်ရပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "Exam fees are already included in the program fee.",
+        "my": "စာမေးပွဲကြေးကို သင်တန်းကြေးထဲတွင် ထည့်သွင်းထားပြီးဖြစ်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": {
+      "en": "Tell me about the SFU old student discount.",
+      "my": "SFU ကျောင်းသားဟောင်းများအတွက် လျှော့စျေးအကြောင်း ပြောပြပေးပါ။"
+    },
+    "answer": [
+      {
+        "en": "SFU old students will receive a 1,000,000 kyats discount.",
+        "my": "SFU ကျောင်းသားဟောင်းများသည် ကျပ် ၁,၀၀၀,၀၀၀ လျှော့စျေး ရရှိမည်ဖြစ်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": {
+      "en": "Is there a referral discount for the SFU MBA?",
+      "my": "SFU MBA အတွက် မိတ်ဆက်ပေးသူ လျှော့စျေးရှိပါသလား။"
+    },
+    "answer": [
+      {
+        "en": "You can get a referral discount of 200,000 kyats, mutually entitled to benefits.",
+        "my": "မိတ်ဆက်ပေးသူနှင့် မိတ်ဆက်ခံရသူ နှစ်ဦးစလုံးအတွက် အကျိုးခံစားခွင့်ရှိသည့် ကျပ် ၂၀၀,၀၀၀ လျှော့စျေးကို ရရှိနိုင်ပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": {
+      "en": "How many campuses does SFU have in Myanmar?",
+      "my": "မြန်မာနိုင်ငံတွင် SFU ၏ ကျောင်းခွဲမည်မျှရှိပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "SFU has a total of 4 campuses in Yangon and 3 in Mandalay.",
+        "my": "SFU တွင် ရန်ကုန်၌ ကျောင်းခွဲ ၄ ခုနှင့် မန္တလေး၌ ကျောင်းခွဲ ၃ ခုရှိပါသည်။"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": {
+      "en": "How many days a week does the SFU MBA study, and what are the teaching hours?",
+      "my": "SFU MBA အစီအစဉ်ကို တစ်ပတ်လျှင် ဘယ်နှရက်တက်ရပြီး သင်ကြားချိန်မည်မျှရှိပါသလဲ။"
+    },
+    "answer": [
+      {
+        "en": "The SFU MBA program is held twice a week and has 20 semester hours. The teaching hours are 45 hours per semester.",
+        "my": "SFU MBA အစီအစဉ်ကို တစ်ပတ်လျှင် နှစ်ရက် သင်ကြားပြီး semester hours ၂၀ ရှိပါသည်။ Semester တစ်ခုလျှင် သင်ကြားချိန် ၄၅ နာရီဖြစ်ပါသည်။"
+      }
+    ]
+  }
+]

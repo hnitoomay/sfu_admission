@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "img": "/img/teacher/msc/U-San-Thurain-Moe.png",
+    "name": {
+      "en": "Dr. Sun Thurain Moe",
+      "my": "ဒေါက်တာ ဆန်းသူရိန်မိုး"
+    },
+    "degree": [
+      {
+        "en": "Ph.D. (IT) (University of Computer Studies, Yangon)",
+        "my": "Ph.D. (IT) (University of Computer Studies, Yangon)"
+      },
+      {
+        "en": "M.I.Sc (Institute of Computer Science and Technology, Yangon) World Scientist Certificate, AD Scientific Index Machine Learning, Stanford | Online Machine Learning Course, Coursera",
+        "my": "M.I.Sc (Institute of Computer Science and Technology, Yangon) World Scientist Certificate, AD Scientific Index Machine Learning, Stanford | Online Machine Learning Course, Coursera"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/img/teacher/msc/Daw-Thel-Seint-Aye.jpg",
+    "name": {
+      "en": "Dr. Thel Seint Aye",
+      "my": "ဒေါက်တာ သဲစိမ့်အေး"
+    },
+    "degree": [
+      {
+        "en": "B.C.Sc",
+        "my": "B.C.Sc"
+      },
+      {
+        "en": "B.C.Sc (Hons)",
+        "my": "B.C.Sc (Hons)"
+      },
+      {
+        "en": "M.C.Sc",
+        "my": "M.C.Sc"
+      },
+      {
+        "en": "Ph.D (IT)",
+        "my": "Ph.D (IT)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/img/teacher/msc/Dr.-La-Wynn-Sandi.jpg",
+    "name": {
+      "en": "Dr. La Wynn Sandi",
+      "my": "ဒေါက်တာ လဝန်းစန္ဒီ"
+    },
+    "degree": [
+      {
+        "en": "B.C.Sc, B.C.Sc (Hons)",
+        "my": "B.C.Sc, B.C.Sc (Hons)"
+      },
+      {
+        "en": "M.C.Sc, Ph.D (IT)",
+        "my": "M.C.Sc, Ph.D (IT)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/img/teacher/msc/Daw-Thandar-Tint.jpg",
+    "name": {
+      "en": "Daw Thandar Tint",
+      "my": "ဒေါ်သန္တာတင့်"
+    },
+    "degree": [
+      {
+        "en": "B.Sc (Hons) (Physics)",
+        "my": "B.Sc (Hons) (Physics)"
+      },
+      {
+        "en": "MIS (UCSY)",
+        "my": "MIS (UCSY)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/img/teacher/msc/U-Kyaw-Myat-Thu.jpg",
+    "name": {
+      "en": "U Kyaw Myat Thu",
+      "my": "ဦးကျော်မြတ်သူ"
+    },
+    "degree": [
+      {
+        "en": "MSc (Communication Engineering) National University of Singapore",
+        "my": "MSc (Communication Engineering) National University of Singapore"
+      },
+      {
+        "en": "B.E (Electronics) Mandalay Technological University, Myanmar",
+        "my": "B.E (Electronics) Mandalay Technological University, Myanmar"
+      }
+    ]
+  }
+]

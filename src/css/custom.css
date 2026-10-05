@@ -1,0 +1,61 @@
+.overflow-y-auto::-webkit-scrollbar {
+  display: none;
+}
+
+.css-1jqq78o-placeholder {
+  color: #c0c0c0 !important;
+}
+
+.css-1u9des2-indicatorSeparator {
+  width: 0 !important;
+}
+
+li::marker {
+  color: "#343434 !important";
+}
+
+.max-w-2xl {
+  max-width: 60% !important;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th:not(:last-child),
+td:not(:last-child) {
+  border-right: 2px solid #e4e4e4;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+
+  th {
+    &:first-child {
+      position: sticky;
+      left: 0;
+    }
+  }
+}
+
+.first-col-sticky {
+  position: sticky;
+  left: 0;
+}
+
+.single-line {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.h-full {
+  height: auto !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .max-w-2xl {
+    max-width: 100% !important;
+  }
+}

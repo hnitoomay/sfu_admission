@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "MBA in Marketing, Core Modules + 2 Required Modules",
+      "my": "MBA in Marketing, Core Modules + 2 Required Modules"
+    },
+    "content": [
+      {
+        "en": "Strategic Marketing Management",
+        "my": "Strategic Marketing Management"
+      },
+      {
+        "en": "Strategic Brand Management",
+        "my": "Strategic Brand Management"
+      },
+      {
+        "en": "Consumer Behaviour",
+        "my": "Consumer Behaviour"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "MBA in Entrepreneurship, Core Modules + 2 Required Modules",
+      "my": "MBA in Entrepreneurship, Core Modules + 2 Required Modules"
+    },
+    "content": [
+      {
+        "en": "Entrepreneurship and Business Planning",
+        "my": "Entrepreneurship and Business Planning"
+      },
+      {
+        "en": "Innovative, Social and Circular Economy Entrepreneurship",
+        "my": "Innovative, Social and Circular Economy Entrepreneurship"
+      },
+      {
+        "en": "Digital Business",
+        "my": "Digital Business"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "MBA in Finance, Core Modules + 2 Required Modules",
+      "my": "MBA in Finance, Core Modules + 2 Required Modules"
+    },
+    "content": [
+      {
+        "en": "Financial Decision Making",
+        "my": "Financial Decision Making"
+      },
+      {
+        "en": "Corporate Finance",
+        "my": "Corporate Finance"
+      },
+      {
+        "en": "M&A",
+        "my": "M&A"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "MBA in Digital Innovation, Core Modules + 2 Required Modules",
+      "my": "MBA in Digital Innovation, Core Modules + 2 Required Modules"
+    },
+    "content": [
+      {
+        "en": "Digital Transformation and Innovation Management",
+        "my": "Digital Transformation and Innovation Management"
+      },
+      {
+        "en": "Change Management",
+        "my": "Change Management"
+      },
+      {
+        "en": " Digital Business",
+        "my": "Digital Business"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "MBA in HRM, Core Modules + 2 Required Modules",
+      "my": "MBA in HRM, Core Modules + 2 Required Modules"
+    },
+    "content": [
+      {
+        "en": "Strategic People Management",
+        "my": "Strategic People Management"
+      },
+      {
+        "en": "Organisational Design and Development",
+        "my": "Organisational Design and Development"
+      },
+      {
+        "en": "International HRM",
+        "my": "International HRM"
+      }
+    ]
+  }
+]

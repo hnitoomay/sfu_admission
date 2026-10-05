@@ -1,0 +1,795 @@
+[
+  {
+    "id": 1,
+    "subject": {
+      "en": "Strategic Financial Management and Accounting",
+      "my": "Strategic Financial Management and Accounting"
+    },
+    "title": {
+      "en": "7AC016: Strategic Financial Management and Accounting",
+      "my": "7AC016: Strategic Financial Management and Accounting"
+    },
+    "credit": {
+      "en": "30",
+      "my": "30"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "This module develops students’ ability to apply accounting and financial management concepts in strategic business decision-making. It introduces key principles of financial analysis, budgeting, performance measurement, and financial planning to support effective management decisions.\n\n Students will explore how financial information is used to evaluate organisational performance, identify financial risks, and support sustainable business growth. The module also develops critical thinking and analytical skills required for strategic financial management in complex business environments.",
+      "my": "ဤ Module သည် ကျောင်းသားများအနေဖြင့် စီးပွားရေးလုပ်ငန်းများ၏ မဟာဗျူဟာမြောက် ဆုံးဖြတ်ချက်များ ချမှတ်ရာတွင် လိုအပ်သော စာရင်းကိုင်နှင့် ဘဏ္ဍာရေးစီမံခန့်ခွဲမှုဆိုင်ရာ အသိပညာများကို လက်တွေ့အသုံးချနိုင်စေရန် ရည်ရွယ်ပါသည်။ ကျောင်းသားများသည် Financial Analysis၊ Budgeting၊ Performance Measurement နှင့် Financial Planning စသည့် အဓိကအကြောင်းအရာများကို လေ့လာပြီး ထိရောက်သော စီးပွားရေးစီမံခန့်ခွဲမှု ဆုံးဖြတ်ချက်များ ချမှတ်နိုင်မည့် အရည်အချင်းများ ဖွံ့ဖြိုးတိုးတက်လာစေရန် အထောက်အကူပြုပါသည်။ ထို့အပြင် လုပ်ငန်းအဖွဲ့အစည်းများ၏ Performance ကို သုံးသပ်ခြင်း၊ Financial Risk များကို ခွဲခြမ်းစိတ်ဖြာခြင်းနှင့် ရေရှည်တည်တံ့သော စီးပွားရေးတိုးတက်မှုအတွက် လိုအပ်သော မဟာဗျူဟာမြောက် ဘဏ္ဍာရေးစီမံခန့်ခွဲမှု အမြင်များကို တည်ဆောက်ပေးပါသည်။\n\n ဤ Module သည် ကျောင်းသားများအနေဖြင့် စီးပွားရေးလုပ်ငန်းများ၏ မဟာဗျူဟာမြောက် ဆုံးဖြတ်ချက်များ ချမှတ်ရာတွင် လိုအပ်သော စာရင်းကိုင်နှင့် ဘဏ္ဍာရေးစီမံခန့်ခွဲမှုဆိုင်ရာ အသိပညာများကို လက်တွေ့အသုံးချနိုင်စေရန် ရည်ရွယ်ပါသည်။ ကျောင်းသားများသည် Financial Analysis၊ Budgeting၊ Performance Measurement နှင့် Financial Planning စသည့် အဓိကအကြောင်းအရာများကို လေ့လာပြီး ထိရောက်သော စီးပွားရေးစီမံခန့်ခွဲမှု ဆုံးဖြတ်ချက်များ ချမှတ်နိုင်မည့် အရည်အချင်းများ ဖွံ့ဖြိုးတိုးတက်လာစေရန် အထောက်အကူပြုပါသည်။ ထို့အပြင် လုပ်ငန်းအဖွဲ့အစည်းများ၏ Performance ကို သုံးသပ်ခြင်း၊ Financial Risk များကို ခွဲခြမ်းစိတ်ဖြာခြင်းနှင့် ရေရှည်တည်တံ့သော စီးပွားရေးတိုးတက်မှုအတွက် လိုအပ်သော မဟာဗျူဟာမြောက် ဘဏ္ဍာရေးစီမံခန့်ခွဲမှု အမြင်များကို တည်ဆောက်ပေးပါသည်။"
+    },
+    "learning_outcome": [
+      {
+        "en": "Evaluate and apply budgeting, variance analysis, and performance measurement techniques to support effective financial decision-making in complex business environments.",
+        "my": "Budgeting၊ Variance Analysis နှင့် Performance Measurement နည်းစနစ်များကို အသုံးချ၍ ထိရောက်သော ဘဏ္ဍာရေးဆုံးဖြတ်ချက်များ ချမှတ်နိုင်မည်။"
+      },
+      {
+        "en": "Demonstrate an understanding of the principles, structures, and interpretation of key financial statements, and their importance in evaluating organisational performance.",
+        "my": "Financial Statements များ၏ အခြေခံသဘောတရားများ၊ ဖွဲ့စည်းပုံများနှင့် အဖွဲ့အစည်း၏ Performance သုံးသပ်ရာတွင် ၎င်းတို့၏ အရေးပါမှုကို နားလည်နိုင်မည်။"
+      },
+      {
+        "en": "Analyse different sources of finance and assess their suitability for supporting strategic business growth.",
+        "my": "စီးပွားရေးလုပ်ငန်းများအတွက် သင့်လျော်သော Finance Sources များကို ခွဲခြမ်းစိတ်ဖြာ၍ မဟာဗျူဟာမြောက် တိုးတက်မှုအတွက် အသုံးချနိုင်မည်။"
+      },
+      {
+        "en": "Apply critical thinking and financial management skills to evaluate business decisions and recommend appropriate financial strategies.",
+        "my": "Critical Thinking နှင့် Financial Management Skills များကို အသုံးပြု၍ စီးပွားရေးဆိုင်ရာ ဆုံးဖြတ်ချက်များကို သုံးသပ်ကာ သင့်လျော်သော ဘဏ္ဍာရေးမဟာဗျူဟာများကို အကြံပြုနိုင်မည်။"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Advanced Costing Techniques:",
+          "my": "Advanced Costing Techniques:"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of advanced costing techniques",
+            "my": "Definition and scope of advanced costing techniques"
+          },
+          {
+            "en": "Role of advanced costing techniques in organizational decision-making",
+            "my": "Role of advanced costing techniques in organizational decision-making"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Budgeting and Control",
+          "my": "Budgeting and Control"
+        },
+        "learning-obj": [
+          {
+            "en": "Budgeting processes and techniques",
+            "my": "Budgeting processes and techniques"
+          },
+          {
+            "en": "Cash budgeting and capital budgeting",
+            "my": "Cash budgeting and capital budgeting"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Cost-Volume Profit Analysis",
+          "my": "Cost-Volume Profit Analysis"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and components of CVP analysis",
+            "my": "Definition and components of CVP analysis"
+          },
+          {
+            "en": "Contribution margin and its significance Break-even analysis",
+            "my": "Contribution margin and its significance Break-even analysis"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Measurement Systems",
+          "my": "Performance Measurement Systems"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for organizational performance",
+            "my": "Key performance indicators (KPIs) for organizational performance"
+          },
+          {
+            "en": "Variance analysis and corrective action",
+            "my": "Variance analysis and corrective action"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Capital Budgeting and Investment Analysis",
+          "my": "Capital Budgeting and Investment Analysis"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and importance of capital budgeting",
+            "my": "Definition and importance of capital budgeting"
+          },
+          {
+            "en": "Differentiate between short-term and long-term decision-making",
+            "my": "Differentiate between short-term and long-term decision-making"
+          },
+          {
+            "en": "Calculate internal rate of return (IRR) and its interpretation",
+            "my": "Calculate internal rate of return (IRR) and its interpretation"
+          },
+          {
+            "en": "Compare and contrast NPV and IRR  methods",
+            "my": "Compare and contrast NPV and IRR  methods"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Financial Management: principles and applications” by Titman and Sheridan, 11th Edition, Volume – 11, Boston: Prentice Hall, 2011.",
+        "my": "“Financial Management: principles and applications” by Titman and Sheridan, 11th Edition, Volume – 11, Boston: Prentice Hall, 2011."
+      },
+      {
+        "en": "“Financial Markets and Corporate Strategy: European Edition” by David Hillier,  Mark Grinblatt, Sheridan Titman, 3rd Edition, McGrawHill, 2023.",
+        "my": "“Financial Markets and Corporate Strategy: European Edition” by David Hillier,  Mark Grinblatt, Sheridan Titman, 3rd Edition, McGrawHill, 2023."
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Assessment Type - Coursework",
+        "my": "Assessment Type - Coursework"
+      },
+      {
+        "en": "Word Count - 4500",
+        "my": "Word Count - 4500"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subject": {
+      "en": "Strategic Marketing and Digital Communication",
+      "my": "Strategic Marketing and Digital Communication"
+    },
+    "title": {
+      "en": "7MK038: Strategic Marketing and Digital Communication",
+      "my": "7MK038: Strategic Marketing and Digital Communication"
+    },
+    "credit": {
+      "en": "30",
+      "my": "30"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "This module develops students’ understanding of strategic marketing principles and digital communication practices in contemporary business environments. It explores how organisations create value, engage customers, and build competitive advantage through effective marketing strategies and digital platforms.\n\nStudents will examine key areas including market analysis, consumer behaviour, brand management, digital marketing strategies, and integrated communication approaches. The module also develops the ability to evaluate marketing challenges and apply strategic thinking to support effective business decision-making.",
+      "my": "ဤ Module သည် ယနေ့ခေတ် စီးပွားရေးပတ်ဝန်းကျင်တွင် လိုအပ်သော Strategic Marketing Principles များနှင့် Digital Communication Practices များကို နားလည်အသုံးချနိုင်စေရန် ရည်ရွယ်ပါသည်။ ကျောင်းသားများသည် အဖွဲ့အစည်းများအနေဖြင့် Customer များအတွက် Value ဖန်တီးပုံ၊ စျေးကွက်အတွင်း ဆက်သွယ်ထိတွေ့ပုံနှင့် ပြိုင်ဆိုင်မှုအသာစီးရရှိရန် Marketing Strategies များကို မည်သို့အသုံးချရမည်ကို လေ့လာနိုင်မည်ဖြစ်ပါသည်။\n\n ထို့အပြင် Market Analysis၊ Consumer Behaviour၊ Brand Management၊ Digital Marketing Strategies နှင့် Integrated Communication Approaches စသည့် အဓိကအကြောင်းအရာများကို လေ့လာပြီး Marketing Challenges များကို ခွဲခြမ်းစိတ်ဖြာကာ ထိရောက်သော စီးပွားရေးဆုံးဖြတ်ချက်များ ချမှတ်နိုင်မည့် Strategic Thinking Skills များကို ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+    },
+    "learning_outcome": [
+      {
+        "en": "Evaluate and apply strategic marketing concepts, theories, and frameworks to address business challenges in competitive environments.",
+        "my": " ပြိုင်ဆိုင်မှုမြင့်မားသော စီးပွားရေးပတ်ဝန်းကျင်များတွင် ဖြစ်ပေါ်လာသော Business Challenges များကို ဖြေရှင်းရန် Strategic Marketing Concepts၊ Theories နှင့် Frameworks များကို အသုံးချနိုင်မည်။"
+      },
+      {
+        "en": "Analyse consumer behaviour, market trends, and digital communication strategies to support effective marketing decisions.",
+        "my": "Consumer Behaviour၊ Market Trends နှင့် Digital Communication Strategies များကို ခွဲခြမ်းစိတ်ဖြာ၍ ထိရောက်သော Marketing Decisions များ ချမှတ်နိုင်မည်။"
+      },
+      {
+        "en": "Demonstrate the ability to develop integrated marketing and communication plans using appropriate digital tools and platforms",
+        "my": "Digital Tools နှင့် Platforms များကို အသုံးပြု၍ Integrated Marketing and Communication Plans များကို ဖန်တီးနိုင်မည်။"
+      },
+      {
+        "en": "Apply critical thinking and analytical skills to evaluate marketing opportunities and recommend suitable strategic solutions.",
+        "my": "Critical Thinking နှင့် Analytical Skills များကို အသုံးချ၍ Marketing Opportunities များကို သုံးသပ်ကာ သင့်လျော်သော Strategic Solutions များကို အကြံပြုနိုင်မည်။"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Marketing Management",
+          "my": "Introduction to Marketing Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition of marketing",
+            "my": "Definition of marketing"
+          },
+          {
+            "en": "Evolution and contemporary trends in  marketing",
+            "my": "Evolution and contemporary trends in  marketing"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Market Research and Analysis:",
+          "my": "Market Research and Analysis:"
+        },
+        "learning-obj": [
+          {
+            "en": "Research methodologies and techniques",
+            "my": "Research methodologies and techniques"
+          },
+          {
+            "en": "Competitor analysis and market segmentation",
+            "my": "Competitor analysis and market segmentation"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Marketing Strategies",
+          "my": "Marketing Strategies"
+        },
+        "learning-obj": [
+          {
+            "en": "Formulating marketing strategies",
+            "my": "Formulating marketing strategies"
+          },
+          {
+            "en": "Segmentation, targeting, and positioning (STP)",
+            "my": "Segmentation, targeting, and positioning (STP)"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Brand Equity Management",
+          "my": "Brand Equity Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Importance of brand equity",
+            "my": "Importance of brand equity"
+          },
+          {
+            "en": "Brand identity, image, and positioning",
+            "my": "Brand identity, image, and positioning"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Integrated Marketing Communications (IMC)",
+          "my": "Integrated Marketing Communications (IMC)"
+        },
+        "learning-obj": [
+          {
+            "en": "Components of IMC",
+            "my": "Components of IMC"
+          },
+          {
+            "en": "Advertising, public relations, and promotions",
+            "my": "Advertising, public relations, and promotions"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Marketing Management” by Philip Kotler and Kevin Lane Keller, 16th Edition, Pearson Education, 2021, ISBN: 0135887151, 9780135887158, 608 pages.",
+        "my": "“Marketing Management” by Philip Kotler and Kevin Lane Keller, 16th Edition, Pearson Education, 2021, ISBN: 0135887151, 9780135887158, 608 pages."
+      },
+      {
+        "en": "“Principles of Marketing” by Philip Kotler and Gary Armstrong, 12th Edition,  Illustrated, Pearson/Prentice Hall, 2008, ISBN: 0132390027, 9780132390026, 599  pages.",
+        "my": "“Principles of Marketing” by Philip Kotler and Gary Armstrong, 12th Edition,  Illustrated, Pearson/Prentice Hall, 2008, ISBN: 0132390027, 9780132390026, 599  pages."
+      },
+      {
+        "en": "“Marketing Strategy: A Decision-Focused Approach” by Orville C. Walker Jr. and John Mullins, 8th Edition, McGraw Hill, (January 24, 2013), ISBN-10: 0078028949,  ISBN-13: 978-0078028946, 384 pages.",
+        "my": "“Marketing Strategy: A Decision-Focused Approach” by Orville C. Walker Jr. and John Mullins, 8th Edition, McGraw Hill, (January 24, 2013), ISBN-10: 0078028949,  ISBN-13: 978-0078028946, 384 pages."
+      },
+      {
+        "en": "“Marketing Management” by Saxena, Rajan, 4th Edition, Tata McGraw Hill Education  Pvt. Ltd. 2009, New Delhi.",
+        "my": "“Marketing Management” by Saxena, Rajan, 4th Edition, Tata McGraw Hill Education  Pvt. Ltd. 2009, New Delhi."
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Assessment Type - Coursework",
+        "my": "Assessment Type - Coursework"
+      },
+      {
+        "en": "Word Count - 4000",
+        "my": "Word Count - 4000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "subject": {
+      "en": "Leadership for Change",
+      "my": "Leadership for Change"
+    },
+    "title": {
+      "en": "7HR043: Leadership for Change",
+      "my": "7HR043: Leadership for Change"
+    },
+    "credit": {
+      "en": "30",
+      "my": "30"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "This module focuses on leadership in managing and supporting change within both local and global business contexts. It explores the principles, theories, and practices of effective leadership, enabling students to understand how leaders influence organisational transformation and sustainable development.\n\n Students will examine leadership behaviours, decision-making approaches, and strategies required to manage change effectively. The module also develops the ability to evaluate leadership challenges and apply appropriate approaches to support successful organisational change in complex business environments.",
+      "my": "ဤ Module သည် ပြည်တွင်းနှင့် နိုင်ငံတကာ စီးပွားရေးပတ်ဝန်းကျင်များတွင် ဖြစ်ပေါ်လာသော ပြောင်းလဲမှုများကို ထိရောက်စွာ စီမံခန့်ခွဲနိုင်ရန် လိုအပ်သော Leadership Concepts များနှင့် Change Management Practices များကို လေ့လာရန် ရည်ရွယ်ပါသည်။\n\n ကျောင်းသားများသည် ထိရောက်သော ခေါင်းဆောင်မှုဆိုင်ရာ သဘောတရားများ၊ သီအိုရီများနှင့် လက်တွေ့အသုံးချနည်းများကို လေ့လာခြင်းအားဖြင့် အဖွဲ့အစည်းများအတွင်း ဖြစ်ပေါ်လာသော ပြောင်းလဲမှုများကို ဦးဆောင်နိုင်ရန်နှင့် ရေရှည်တည်တံ့သော ဖွံ့ဖြိုးတိုးတက်မှုများကို ပံ့ပိုးနိုင်ရန် လိုအပ်သော အရည်အချင်းများ ရရှိမည်ဖြစ်ပါသည်။ \n\n ထို့အပြင် Leadership Behaviours၊ Decision-Making Approaches နှင့် Change Management Strategies များကို လေ့လာကာ ရှုပ်ထွေးသော Business Environment များအတွင်း ဖြစ်ပေါ်လာသော Leadership Challenges များကို ခွဲခြမ်းစိတ်ဖြာပြီး သင့်လျော်သော ခေါင်းဆောင်မှုနည်းလမ်းများကို အသုံးချနိုင်မည့် စွမ်းရည်များ ဖွံ့ဖြိုးတိုးတက်လာစေရန် အထောက်အကူပြုပါသည်။"
+    },
+    "learning_outcome": [
+      {
+        "en": "Evaluate different leadership styles, behaviours, and competencies to support effective organisational change.",
+        "my": "အဖွဲ့အစည်းများအတွင်း ဖြစ်ပေါ်လာသော ပြောင်းလဲမှုများကို ထိရောက်စွာ ပံ့ပိုးနိုင်ရန် Leadership Styles၊ Behaviours နှင့် Competencies များကို သုံးသပ်အသုံးချနိုင်မည်။"
+      },
+      {
+        "en": "Analyse leadership theories and practices to understand their application in managing change within local and global business contexts.",
+        "my": "ပြည်တွင်းနှင့် နိုင်ငံတကာ စီးပွားရေးပတ်ဝန်းကျင်များတွင် Change Management အတွက် Leadership Theories နှင့် Practices များ၏ အသုံးချနိုင်မှုကို ခွဲခြမ်းစိတ်ဖြာနိုင်မည်။"
+      },
+      {
+        "en": "Apply appropriate leadership approaches to address challenges, influence stakeholders, and support successful organisational transformation.",
+        "my": "Stakeholders များအပေါ် အကျိုးသက်ရောက်မှုရှိစေပြီး အဖွဲ့အစည်းဆိုင်ရာ ပြောင်းလဲမှုများ အောင်မြင်စွာ အကောင်အထည်ဖော်နိုင်ရန် သင့်လျော်သော Leadership Approaches များကို အသုံးချနိုင်မည်။"
+      },
+      {
+        "en": "Evaluate and recommend sustainable leadership practices that contribute to effective organisational development and long-term business success.",
+        "my": "အဖွဲ့အစည်းဖွံ့ဖြိုးတိုးတက်မှုနှင့် ရေရှည်စီးပွားရေးအောင်မြင်မှုအတွက် အထောက်အကူပြုမည့် Sustainable Leadership Practices များကို သုံးသပ်ကာ အကြံပြုနိုင်မည်။"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Human Resources Management",
+          "my": "Introduction to Human Resources Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of human resources management",
+            "my": "Definition and scope of human resources management"
+          },
+          {
+            "en": "Evolution and contemporary trends in HRM",
+            "my": "Evolution and contemporary trends in HRM"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Talent Acquisition and Recruitment",
+          "my": "Talent Acquisition and Recruitment"
+        },
+        "learning-obj": [
+          {
+            "en": "Talent acquisition strategies",
+            "my": "Talent acquisition strategies"
+          },
+          {
+            "en": "Recruitment and selection processes",
+            "my": "Recruitment and selection processes"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Employee Development and Training",
+          "my": "Employee Development and Training"
+        },
+        "learning-obj": [
+          {
+            "en": "Employee development programs",
+            "my": "Employee development programs"
+          },
+          {
+            "en": "Training needs analysis and learning initiatives",
+            "my": "Training needs analysis and learning initiatives"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Management",
+          "my": "Performance Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Performance management systems",
+            "my": "Performance management systems"
+          },
+          {
+            "en": "Appraisal processes and feedback",
+            "my": "Appraisal processes and feedback"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Employee Engagement and Retention",
+          "my": "Employee Engagement and Retention"
+        },
+        "learning-obj": [
+          {
+            "en": "Actors influencing employee engagement",
+            "my": "Actors influencing employee engagement"
+          },
+          {
+            "en": "Retention strategies and job satisfaction",
+            "my": "Retention strategies and job satisfaction"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Compensation and Benefits Management",
+          "my": "Compensation and Benefits Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Designing competitive compensation structures",
+            "my": "Designing competitive compensation structures"
+          },
+          {
+            "en": "Employee benefits programs",
+            "my": "Employee benefits programs"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Human Resource Management” by Gary Dessler, 16th Edition, Pearson (September15, 2020), ISBN-13: 9780135637289.",
+        "my": "“Human Resource Management” by Gary Dessler, 16th Edition, Pearson (September15, 2020), ISBN-13: 9780135637289."
+      },
+      {
+        "en": "“Human Resource Management: Gaining a Competitive Advantage” by Raymond A.  Noe, John R. Hollenbeck, Barry Gerhart, and Patrick M. Wright, 13th Edition, ISBN10:  1264188897 | ISBN13: 9781264188895.",
+        "my": "“Human Resource Management: Gaining a Competitive Advantage” by Raymond A.  Noe, John R. Hollenbeck, Barry Gerhart, and Patrick M. Wright, 13th Edition, ISBN10:  1264188897 | ISBN13: 9781264188895."
+      },
+      {
+        "en": "“Strategic Human Resource Management, Employee Training & Development” by Jeffrey A. Mello, and Raymond A. Noe, 2nd Edition, 2006, Mason, Ohio:  Thomson/South-Western.",
+        "my": "“Strategic Human Resource Management, Employee Training & Development” by Jeffrey A. Mello, and Raymond A. Noe, 2nd Edition, 2006, Mason, Ohio:  Thomson/South-Western."
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Assessment Type - Presentation",
+        "my": "Assessment Type - Presentation"
+      },
+      {
+        "en": "Word Count - 4000",
+        "my": "Word Count - 4000"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "subject": {
+      "en": "Leadership and Digital Transformation Strategy",
+      "my": "Leadership and Digital Transformation Strategy"
+    },
+    "title": {
+      "en": "7BU058: Leadership and Digital Transformation Strategy",
+      "my": "7BU058: Leadership and Digital Transformation Strategy"
+    },
+    "credit": {
+      "en": "30",
+      "my": "30"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "This module explores the role of leadership in driving digital transformation within modern organisations. It examines how leaders can leverage emerging technologies, data-driven insights, and strategic approaches to create sustainable organisational change and innovation.\n\nStudents will develop an understanding of digital transformation strategies, leadership approaches, and the challenges involved in managing technology-driven change. The module also focuses on developing the ability to evaluate digital opportunities, support organisational innovation, and lead transformation initiatives in complex business environments.",
+      "my": "ဤ Module သည် ယနေ့ခေတ် အဖွဲ့အစည်းများအတွင်း Digital Transformation ကို အောင်မြင်စွာ အကောင်အထည်ဖော်ရာတွင် လိုအပ်သော Leadership Role နှင့် Strategic Approaches များကို လေ့လာရန် ရည်ရွယ်ပါသည်။\n\n ကျောင်းသားများသည် Emerging Technologies များ၊ Data-driven Insights များနှင့် မဟာဗျူဟာမြောက် စီမံခန့်ခွဲမှုနည်းလမ်းများကို အသုံးချ၍ အဖွဲ့အစည်းဆိုင်ရာ ပြောင်းလဲမှုများ၊ Innovation များနှင့် ရေရှည်တည်တံ့သော ဖွံ့ဖြိုးတိုးတက်မှုများကို မည်သို့ ဦးဆောင်နိုင်မည်ကို လေ့လာနိုင်မည်ဖြစ်ပါသည်။\n\n ထို့အပြင် Digital Transformation Strategies၊ Leadership Approaches နှင့် Technology-driven Change များကို စီမံခန့်ခွဲရာတွင် ကြုံတွေ့ရနိုင်သော စိန်ခေါ်မှုများကို လေ့လာကာ Digital Opportunities များကို သုံးသပ်ခြင်း၊ Innovation ကို ပံ့ပိုးခြင်းနှင့် ရှုပ်ထွေးသော Business Environment များအတွင်း Transformation Initiatives များကို ဦးဆောင်နိုင်မည့် စွမ်းရည်များ ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+    },
+    "learning_outcome": [
+      {
+        "en": "Demonstrate advanced research skills in planning, designing, and conducting an independent research project.",
+        "my": "Leadership Principles၊ Organisational Objectives နှင့် Emerging Technologies များကို ပေါင်းစပ်အသုံးချ၍ Strategic Digital Transformation Initiatives များကို ရေးဆွဲသုံးသပ်နိုင်မည်။"
+      },
+      {
+        "en": "Apply appropriate research methodologies and analytical techniques to investigate business-related issues and develop meaningful conclusions.",
+        "my": "Digital Leadership Approaches နှင့် Change Management Principles များကို ခွဲခြမ်းစိတ်ဖြာ၍ အဖွဲ့အစည်းဆိုင်ရာ ပြောင်းလဲမှုများကို အောင်မြင်စွာ အကောင်အထည်ဖော်နိုင်ရန် ပံ့ပိုးနိုင်မည်။"
+      },
+      {
+        "en": "Critically evaluate academic literature, research findings, and evidence to support informed decision-making.",
+        "my": "Digital Transformation နှင့် ပတ်သက်သော ခေတ်ပြိုင် Leadership Challenges များကို သုံးသပ်ပြီး Technology-driven Change များကို စီမံခန့်ခွဲရန် သင့်လျော်သော Strategies များကို အကြံပြုနိုင်မည်။"
+      },
+      {
+        "en": "Produce a structured research project that demonstrates independent thinking, analytical ability, and professional research skills.",
+        "my": "Innovation၊ Data-driven Decision Making နှင့် Digital Transformation Strategies များကို အသုံးချ၍ ရေရှည်တည်တံ့သော အဖွဲ့အစည်းဆိုင်ရာ တိုးတက်မှုများကို ပံ့ပိုးနိုင်မည်။"
+      }
+    ],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Sustainable Strategic Management",
+          "my": "Introduction to Sustainable Strategic Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Defining sustainability in a business context",
+            "my": "Defining sustainability in a business context"
+          },
+          {
+            "en": "Historical evolution and current trends in  sustainable management.",
+            "my": "Historical evolution and current trends in  sustainable management."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Strategic Analysis and Planning",
+          "my": "Strategic Analysis and Planning"
+        },
+        "learning-obj": [
+          {
+            "en": "Integrating sustainability considerations into SWOT analysis.",
+            "my": "Integrating sustainability considerations into SWOT analysis."
+          },
+          {
+            "en": "Developing sustainable business models and  strategic plans",
+            "my": "Developing sustainable business models and  strategic plans"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Stakeholder Engagement and Communication",
+          "my": "Stakeholder Engagement and Communication"
+        },
+        "learning-obj": [
+          {
+            "en": "Identifying key stakeholders and their interests.",
+            "my": "Identifying key stakeholders and their interests."
+          },
+          {
+            "en": "Strategies for effective communication and engagement.",
+            "my": "Strategies for effective communication and engagement."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Metrics and Measurement",
+          "my": "Metrics and Measurement"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for sustainability",
+            "my": "Key performance indicators (KPIs) for sustainability"
+          },
+          {
+            "en": "Sustainability reporting frameworks (e.g.,  GRI) and standards.",
+            "my": "Sustainability reporting frameworks (e.g.,  GRI) and standards."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Innovation and Entrepreneurship for  Sustainability",
+          "my": "Innovation and Entrepreneurship for  Sustainability"
+        },
+        "learning-obj": [
+          {
+            "en": "Examining sustainable innovation and entrepreneurship",
+            "my": "Examining sustainable innovation and entrepreneurship"
+          },
+          {
+            "en": "Case studies of successful sustainable business ventures.",
+            "my": "Case studies of successful sustainable business ventures."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Global Dimensions of Sustainable Management",
+          "my": "Global Dimensions of Sustainable Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Understanding global challenges and opportunities in sustainability.",
+            "my": "Understanding global challenges and opportunities in sustainability."
+          },
+          {
+            "en": "Cross-cultural perspectives on sustainable  business practices.",
+            "my": "Cross-cultural perspectives on sustainable  business practices."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Sustainable Strategic Management” by Stead, W. Edward, Armonk, N.Y.: M.E. Shape, 2004.",
+        "my": "“Sustainable Strategic Management” by Stead, W. Edward, Armonk, N.Y.: M.E. Shape, 2004."
+      },
+      {
+        "en": "“Corporate Sustainability: Integrating Performance and Reporting” by Bernhard  Ebbinghaus and Wolfgang Stascheit, Wiley, 2012, ISBN: 9781118122365",
+        "my": "“Corporate Sustainability: Integrating Performance and Reporting” by Bernhard  Ebbinghaus and Wolfgang Stascheit, Wiley, 2012, ISBN: 9781118122365"
+      },
+      {
+        "en": "“The Sustainable MBA: A Business Guide to Sustainability” by Giselle Weybrecht, 1st  Edition, 2012, ISBN:9781118760635 |Online ISBN:9781118760628.",
+        "my": "“The Sustainable MBA: A Business Guide to Sustainability” by Giselle Weybrecht, 1st  Edition, 2012, ISBN:9781118760635 |Online ISBN:9781118760628."
+      },
+      {
+        "en": "“Strategic Management: Concepts and Cases” by Frank T. Rothaermel, 6th Edition, McGraw-Hill Education, 2023, ISBN-10:1266191860, ISBN-13:978-1266191862, 576 pages.",
+        "my": "“Strategic Management: Concepts and Cases” by Frank T. Rothaermel, 6th Edition, McGraw-Hill Education, 2023, ISBN-10:1266191860, ISBN-13:978-1266191862, 576 pages."
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Assessment Type - Portfolio",
+        "my": "Assessment Type - Portfolio"
+      },
+      {
+        "en": "Word Count - 4000",
+        "my": "Word Count - 4000"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "subject": {
+      "en": "The Masters Research Project",
+      "my": "The Masters Research Project"
+    },
+    "title": {
+      "en": "7MG001: The Masters Research Project",
+      "my": "7MG001: The Masters Research Project"
+    },
+    "credit": {
+      "en": "60",
+      "my": "60"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "This module provides students with the opportunity to develop advanced research skills through the planning, design, and completion of an independent research project. It enables students to investigate a business-related topic, apply appropriate research methodologies, and develop evidence-based conclusions.\n\n Students will strengthen their ability to analyse complex business issues, evaluate relevant academic literature, and apply critical thinking skills to address real-world organisational challenges. The module supports the development of independent research capability and professional decision-making skills required for postgraduate-level study and practice.",
+      "my": "ဤ Module သည် ကျောင်းသားများအနေဖြင့် Independent Research Project တစ်ခုကို စီစဉ်ရေးဆွဲခြင်း၊ သုတေသနပြုလုပ်ခြင်းနှင့် ပြီးမြောက်အောင် အကောင်အထည်ဖော်ခြင်းတို့မှတစ်ဆင့် အဆင့်မြင့် Research Skills များ ဖွံ့ဖြိုးတိုးတက်စေရန် ရည်ရွယ်ပါသည်။\n\n ကျောင်းသားများသည် Business နှင့် သက်ဆိုင်သော အကြောင်းအရာတစ်ခုကို ရွေးချယ်လေ့လာခြင်း၊ သင့်လျော်သော Research Methodologies များကို အသုံးချခြင်းနှင့် သုတေသနအထောက်အထားများအပေါ် အခြေခံ၍ သုံးသပ်ချက်များ ထုတ်ဖော်နိုင်ရန် လေ့ကျင့်ရမည်ဖြစ်ပါသည်။\n\n ထို့အပြင် ရှုပ်ထွေးသော Business Issues များကို ခွဲခြမ်းစိတ်ဖြာခြင်း၊ သက်ဆိုင်ရာ Academic Literature များကို သုံးသပ်ခြင်းနှင့် Critical Thinking Skills များကို အသုံးချခြင်းအားဖြင့် လုပ်ငန်းခွင်အတွင်း ကြုံတွေ့ရနိုင်သော ပြဿနာများကို ဖြေရှင်းနိုင်မည့် Independent Research Capability နှင့် Professional Decision-Making Skills များကို ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+    },
+    "learning_outcome": [
+      {
+        "en": "Demonstrate advanced research skills in planning, designing, and conducting an independent research project.",
+        "my": "Independent Research Project တစ်ခုကို စီစဉ်ရေးဆွဲခြင်း၊ ဒီဇိုင်းရေးဆွဲခြင်းနှင့် သုတေသနပြုလုပ်ခြင်းအတွက် လိုအပ်သော အဆင့်မြင့် Research Skills များကို အသုံးချနိုင်မည်။"
+      },
+      {
+        "en": "Apply appropriate research methodologies and analytical techniques to investigate business-related issues and develop meaningful conclusions.",
+        "my": "Business-related Issues များကို လေ့လာရန် သင့်လျော်သော Research Methodologies နှင့် Analytical Techniques များကို အသုံးချကာ အဓိပ္ပာယ်ရှိသော သုတေသနရလဒ်များကို ဖော်ထုတ်နိုင်မည်။"
+      },
+      {
+        "en": "Critically evaluate academic literature, research findings, and evidence to support informed decision-making.",
+        "my": "Academic Literature များ၊ Research Findings များနှင့် Evidence များကို Critical Analysis ပြုလုပ်၍ အချက်အလက်အပေါ် အခြေခံသော ဆုံးဖြတ်ချက်များ ချမှတ်နိုင်မည်။"
+      },
+      {
+        "en": "Produce a structured research project that demonstrates independent thinking, analytical ability, and professional research skills.",
+        "my": "Independent Thinking၊ Analytical Ability နှင့် Professional Research Skills များကို ဖော်ပြနိုင်သည့် Structured Research Project တစ်ခုကို ရေးသားတင်ပြနိုင်မည်။"
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Assessment Type - Research",
+        "my": "Assessment Type - Research"
+      },
+      {
+        "en": "Word Count - 15000",
+        "my": "Word Count - 15000"
+      }
+    ]
+  }
+]

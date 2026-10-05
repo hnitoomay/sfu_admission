@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "img": "/img/teacher/prof-dr-daw-ohnmar-myint.jpg",
+    "name": {
+      "en": "Prof. Dr. Daw Ohnmar Myint",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons), M. Com (YIE), Ph.D. (HRM, Delhi University)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/img/teacher/daw-htay-htay-myint.jpg",
+    "name": {
+      "en": "Daw Htay Htay Myint",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "M. Com (YIE)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/img/teacher/daw-khin-nwe-ohn.jpg",
+    "name": {
+      "en": "Daw Khin Nwe Ohn",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons, YIE)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "M. Com",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/img/teacher/dr-Thaung-Han-1.jpg",
+    "name": {
+      "en": "Dr. Thaung Han",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "CEO, Max Myanmar Holding Co. Ltd",
+        "my": "myanmar text"
+      },
+      {
+        "en": "M.B.,B.S (Institute of Medicine, Mandalay)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "DBI (Yangon University)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "EMBA (Yangon Institute of Economics)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "MBA (Purdue University)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Ph.D (University of Texas at El Paso)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/img/teacher/daw-soe-soe.jpg",
+    "name": {
+      "en": "Daw Soe Soe",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "BBA (ABAC)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "Master of International Business Administration (University of North Umbria, UK)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "/img/teacher/u-win-thu-aung.jpg",
+    "name": {
+      "en": "U Win Thu Aung",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "B.A (Political Science) University of Nevada",
+        "my": "myanmar text"
+      },
+      {
+        "en": "USA, MSc (Financial Engineering) World Quant University",
+        "my": "myanmar text"
+      },
+      {
+        "en": "USA, MPA (University of Illinois, USA)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "/img/teacher/mba/Daw-Cho-Thiri-Maung.jpg",
+    "name": {
+      "en": "Daw Cho Thiri Maung",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "MBA (YIE)",
+        "my": "myanmar text"
+      },
+      {
+        "en": "MBA (Hitotsubashi University, Tokyo)",
+        "my": "myanmar text"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "/img/teacher/msc/Blank-02.jpg",
+    "name": {
+      "en": "Daw May Myat Thu",
+      "my": "myanmar text"
+    },
+    "degree": [
+      {
+        "en": "",
+        "my": "myanmar text"
+      }
+    ]
+  }
+]

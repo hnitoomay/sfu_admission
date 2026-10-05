@@ -1,0 +1,787 @@
+[
+  {
+    "id": 1,
+    "subject": {
+      "en": "Research Methods & Professionalism",
+      "my": "Research Methods & Professionalism"
+    },
+    "title": {
+      "en": "7CS122: Research Methods & Professionalism",
+      "my": "7CS122: Research Methods & Professionalism"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Advanced Costing Techniques:",
+          "my": "Advanced Costing Techniques:"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of advanced costing techniques",
+            "my": "Definition and scope of advanced costing techniques"
+          },
+          {
+            "en": "Role of advanced costing techniques in organizational decision-making",
+            "my": "Role of advanced costing techniques in organizational decision-making"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Budgeting and Control",
+          "my": "Budgeting and Control"
+        },
+        "learning-obj": [
+          {
+            "en": "Budgeting processes and techniques",
+            "my": "Budgeting processes and techniques"
+          },
+          {
+            "en": "Cash budgeting and capital budgeting",
+            "my": "Cash budgeting and capital budgeting"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Cost-Volume Profit Analysis",
+          "my": "Cost-Volume Profit Analysis"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and components of CVP analysis",
+            "my": "Definition and components of CVP analysis"
+          },
+          {
+            "en": "Contribution margin and its significance Break-even analysis",
+            "my": "Contribution margin and its significance Break-even analysis"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Measurement Systems",
+          "my": "Performance Measurement Systems"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for organizational performance",
+            "my": "Key performance indicators (KPIs) for organizational performance"
+          },
+          {
+            "en": "Variance analysis and corrective action",
+            "my": "Variance analysis and corrective action"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Capital Budgeting and Investment Analysis",
+          "my": "Capital Budgeting and Investment Analysis"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and importance of capital budgeting",
+            "my": "Definition and importance of capital budgeting"
+          },
+          {
+            "en": "Differentiate between short-term and long-term decision-making",
+            "my": "Differentiate between short-term and long-term decision-making"
+          },
+          {
+            "en": "Calculate internal rate of return (IRR) and its interpretation",
+            "my": "Calculate internal rate of return (IRR) and its interpretation"
+          },
+          {
+            "en": "Compare and contrast NPV and IRR  methods",
+            "my": "Compare and contrast NPV and IRR  methods"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Financial Management: principles and applications” by Titman and Sheridan, 11th Edition, Volume - 11, Boston: Prentice Hall, 2011.",
+        "my": "“Financial Management: principles and applications” by Titman and Sheridan, 11th Edition, Volume - 11, Boston: Prentice Hall, 2011."
+      },
+      {
+        "en": "“Financial Markets and Corporate Strategy: European Edition” by David Hillier,  Mark Grinblatt, Sheridan Titman, 3rd Edition, McGrawHill, 2023.",
+        "my": "“Financial Markets and Corporate Strategy: European Edition” by David Hillier,  Mark Grinblatt, Sheridan Titman, 3rd Edition, McGrawHill, 2023."
+      }
+    ],
+    "assessments": []
+  },
+  {
+    "id": 2,
+    "subject": {
+      "en": "Advanced Artificial Intelligence and Machine Learning",
+      "my": "Advanced Artificial Intelligence and Machine Learning"
+    },
+    "title": {
+      "en": "7CS133: Advanced Artificial Intelligence and Machine Learning",
+      "my": "7CS133: Advanced Artificial Intelligence and Machine Learning"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Marketing Management",
+          "my": "Introduction to Marketing Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition of marketing",
+            "my": "Definition of marketing"
+          },
+          {
+            "en": "Evolution and contemporary trends in  marketing",
+            "my": "Evolution and contemporary trends in  marketing"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Market Research and Analysis:",
+          "my": "Market Research and Analysis:"
+        },
+        "learning-obj": [
+          {
+            "en": "Research methodologies and techniques",
+            "my": "Research methodologies and techniques"
+          },
+          {
+            "en": "Competitor analysis and market segmentation",
+            "my": "Competitor analysis and market segmentation"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Marketing Strategies",
+          "my": "Marketing Strategies"
+        },
+        "learning-obj": [
+          {
+            "en": "Formulating marketing strategies",
+            "my": "Formulating marketing strategies"
+          },
+          {
+            "en": "Segmentation, targeting, and positioning (STP)",
+            "my": "Segmentation, targeting, and positioning (STP)"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Brand Equity Management",
+          "my": "Brand Equity Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Importance of brand equity",
+            "my": "Importance of brand equity"
+          },
+          {
+            "en": "Brand identity, image, and positioning",
+            "my": "Brand identity, image, and positioning"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Integrated Marketing Communications (IMC)",
+          "my": "Integrated Marketing Communications (IMC)"
+        },
+        "learning-obj": [
+          {
+            "en": "Components of IMC",
+            "my": "Components of IMC"
+          },
+          {
+            "en": "Advertising, public relations, and promotions",
+            "my": "Advertising, public relations, and promotions"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Marketing Management” by Philip Kotler and Kevin Lane Keller, 16th Edition, Pearson Education, 2021, ISBN: 0135887151, 9780135887158, 608 pages.",
+        "my": "“Marketing Management” by Philip Kotler and Kevin Lane Keller, 16th Edition, Pearson Education, 2021, ISBN: 0135887151, 9780135887158, 608 pages."
+      },
+      {
+        "en": "“Principles of Marketing” by Philip Kotler and Gary Armstrong, 12th Edition,  Illustrated, Pearson/Prentice Hall, 2008, ISBN: 0132390027, 9780132390026, 599  pages.",
+        "my": "“Principles of Marketing” by Philip Kotler and Gary Armstrong, 12th Edition,  Illustrated, Pearson/Prentice Hall, 2008, ISBN: 0132390027, 9780132390026, 599  pages."
+      },
+      {
+        "en": "“Marketing Strategy: A Decision-Focused Approach” by Orville C. Walker Jr. and John Mullins, 8th Edition, McGraw Hill, (January 24, 2013), ISBN-10: 0078028949,  ISBN-13: 978-0078028946, 384 pages.",
+        "my": "“Marketing Strategy: A Decision-Focused Approach” by Orville C. Walker Jr. and John Mullins, 8th Edition, McGraw Hill, (January 24, 2013), ISBN-10: 0078028949,  ISBN-13: 978-0078028946, 384 pages."
+      },
+      {
+        "en": "“Marketing Management” by Saxena, Rajan, 4th Edition, Tata McGraw Hill Education  Pvt. Ltd. 2009, New Delhi.",
+        "my": "“Marketing Management” by Saxena, Rajan, 4th Edition, Tata McGraw Hill Education  Pvt. Ltd. 2009, New Delhi."
+      }
+    ],
+    "assessments": []
+  },
+  {
+    "id": 3,
+    "subject": {
+      "en": "XR Application Development",
+      "my": "XR Application Development"
+    },
+    "title": {
+      "en": "7CS120: XR Application Development",
+      "my": "7CS120: XR Application Development"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Human Resources Management",
+          "my": "Introduction to Human Resources Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Definition and scope of human resources management",
+            "my": "Definition and scope of human resources management"
+          },
+          {
+            "en": "Evolution and contemporary trends in HRM",
+            "my": "Evolution and contemporary trends in HRM"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Talent Acquisition and Recruitment",
+          "my": "Talent Acquisition and Recruitment"
+        },
+        "learning-obj": [
+          {
+            "en": "Talent acquisition strategies",
+            "my": "Talent acquisition strategies"
+          },
+          {
+            "en": "Recruitment and selection processes",
+            "my": "Recruitment and selection processes"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Employee Development and Training",
+          "my": "Employee Development and Training"
+        },
+        "learning-obj": [
+          {
+            "en": "Employee development programs",
+            "my": "Employee development programs"
+          },
+          {
+            "en": "Training needs analysis and learning initiatives",
+            "my": "Training needs analysis and learning initiatives"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Performance Management",
+          "my": "Performance Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Performance management systems",
+            "my": "Performance management systems"
+          },
+          {
+            "en": "Appraisal processes and feedback",
+            "my": "Appraisal processes and feedback"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Employee Engagement and Retention",
+          "my": "Employee Engagement and Retention"
+        },
+        "learning-obj": [
+          {
+            "en": "Actors influencing employee engagement",
+            "my": "Actors influencing employee engagement"
+          },
+          {
+            "en": "Retention strategies and job satisfaction",
+            "my": "Retention strategies and job satisfaction"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Compensation and Benefits Management",
+          "my": "Compensation and Benefits Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Designing competitive compensation structures",
+            "my": "Designing competitive compensation structures"
+          },
+          {
+            "en": "Employee benefits programs",
+            "my": "Employee benefits programs"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Human Resource Management” by Gary Dessler, 16th Edition, Pearson (September15, 2020), ISBN-13: 9780135637289.",
+        "my": "“Human Resource Management” by Gary Dessler, 16th Edition, Pearson (September15, 2020), ISBN-13: 9780135637289."
+      },
+      {
+        "en": "“Human Resource Management: Gaining a Competitive Advantage” by Raymond A.  Noe, John R. Hollenbeck, Barry Gerhart, and Patrick M. Wright, 13th Edition, ISBN10:  1264188897 | ISBN13: 9781264188895.",
+        "my": "“Human Resource Management: Gaining a Competitive Advantage” by Raymond A.  Noe, John R. Hollenbeck, Barry Gerhart, and Patrick M. Wright, 13th Edition, ISBN10:  1264188897 | ISBN13: 9781264188895."
+      },
+      {
+        "en": "“Strategic Human Resource Management, Employee Training & Development” by Jeffrey A. Mello, and Raymond A. Noe, 2nd Edition, 2006, Mason, Ohio:  Thomson/South-Western.",
+        "my": "“Strategic Human Resource Management, Employee Training & Development” by Jeffrey A. Mello, and Raymond A. Noe, 2nd Edition, 2006, Mason, Ohio:  Thomson/South-Western."
+      }
+    ],
+    "assessments": []
+  },
+  {
+    "id": 4,
+    "subject": {
+      "en": "Cloud Infrastructure and Platforms",
+      "my": "Cloud Infrastructure and Platforms"
+    },
+    "title": {
+      "en": "7CC016: Cloud Infrastructure and Platforms",
+      "my": "7CC016: Cloud Infrastructure and Platforms"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "course_details": [
+      {
+        "week": "1",
+        "session_topic": {
+          "en": "Introduction to Sustainable Strategic Management",
+          "my": "Introduction to Sustainable Strategic Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Defining sustainability in a business context",
+            "my": "Defining sustainability in a business context"
+          },
+          {
+            "en": "Historical evolution and current trends in  sustainable management.",
+            "my": "Historical evolution and current trends in  sustainable management."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "2",
+        "session_topic": {
+          "en": "Strategic Analysis and Planning",
+          "my": "Strategic Analysis and Planning"
+        },
+        "learning-obj": [
+          {
+            "en": "Integrating sustainability considerations into SWOT analysis.",
+            "my": "Integrating sustainability considerations into SWOT analysis."
+          },
+          {
+            "en": "Developing sustainable business models and  strategic plans",
+            "my": "Developing sustainable business models and  strategic plans"
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "3",
+        "session_topic": {
+          "en": "Stakeholder Engagement and Communication",
+          "my": "Stakeholder Engagement and Communication"
+        },
+        "learning-obj": [
+          {
+            "en": "Identifying key stakeholders and their interests.",
+            "my": "Identifying key stakeholders and their interests."
+          },
+          {
+            "en": "Strategies for effective communication and engagement.",
+            "my": "Strategies for effective communication and engagement."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "4",
+        "session_topic": {
+          "en": "Metrics and Measurement",
+          "my": "Metrics and Measurement"
+        },
+        "learning-obj": [
+          {
+            "en": "Key performance indicators (KPIs) for sustainability",
+            "my": "Key performance indicators (KPIs) for sustainability"
+          },
+          {
+            "en": "Sustainability reporting frameworks (e.g.,  GRI) and standards.",
+            "my": "Sustainability reporting frameworks (e.g.,  GRI) and standards."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "5",
+        "session_topic": {
+          "en": "Innovation and Entrepreneurship for  Sustainability",
+          "my": "Innovation and Entrepreneurship for  Sustainability"
+        },
+        "learning-obj": [
+          {
+            "en": "Examining sustainable innovation and entrepreneurship",
+            "my": "Examining sustainable innovation and entrepreneurship"
+          },
+          {
+            "en": "Case studies of successful sustainable business ventures.",
+            "my": "Case studies of successful sustainable business ventures."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      },
+      {
+        "week": "6",
+        "session_topic": {
+          "en": "Global Dimensions of Sustainable Management",
+          "my": "Global Dimensions of Sustainable Management"
+        },
+        "learning-obj": [
+          {
+            "en": "Understanding global challenges and opportunities in sustainability.",
+            "my": "Understanding global challenges and opportunities in sustainability."
+          },
+          {
+            "en": "Cross-cultural perspectives on sustainable  business practices.",
+            "my": "Cross-cultural perspectives on sustainable  business practices."
+          }
+        ],
+        "core_txt_reading": {
+          "en": "Management, Ch. 1 (Robbins & Coulter)",
+          "my": "Management, Ch. 1 (Robbins & Coulter)"
+        }
+      }
+    ],
+    "ref_txt_book": [
+      {
+        "en": "“Sustainable Strategic Management” by Stead, W. Edward, Armonk, N.Y.: M.E. Shape, 2004.",
+        "my": "“Sustainable Strategic Management” by Stead, W. Edward, Armonk, N.Y.: M.E. Shape, 2004."
+      },
+      {
+        "en": "“Corporate Sustainability: Integrating Performance and Reporting” by Bernhard  Ebbinghaus and Wolfgang Stascheit, Wiley, 2012, ISBN: 9781118122365",
+        "my": "“Corporate Sustainability: Integrating Performance and Reporting” by Bernhard  Ebbinghaus and Wolfgang Stascheit, Wiley, 2012, ISBN: 9781118122365"
+      },
+      {
+        "en": "“The Sustainable MBA: A Business Guide to Sustainability” by Giselle Weybrecht, 1st  Edition, 2012, ISBN:9781118760635 |Online ISBN:9781118760628.",
+        "my": "“The Sustainable MBA: A Business Guide to Sustainability” by Giselle Weybrecht, 1st  Edition, 2012, ISBN:9781118760635 |Online ISBN:9781118760628."
+      },
+      {
+        "en": "“Strategic Management: Concepts and Cases” by Frank T. Rothaermel, 6th Edition, McGraw-Hill Education, 2023, ISBN-10:1266191860, ISBN-13:978-1266191862, 576 pages.",
+        "my": "“Strategic Management: Concepts and Cases” by Frank T. Rothaermel, 6th Edition, McGraw-Hill Education, 2023, ISBN-10:1266191860, ISBN-13:978-1266191862, 576 pages."
+      }
+    ],
+    "assessments": []
+  },
+  {
+    "id": 5,
+    "subject": {
+      "en": "Web Technologies",
+      "my": "Web Technologies"
+    },
+    "title": {
+      "en": "7CS138: Web Technologies",
+      "my": "7CS138: Web Technologies"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "assessments": []
+  },
+  {
+    "id": 6,
+    "subject": {
+      "en": "Data Mining and Analytics",
+      "my": "Data Mining and Analytics"
+    },
+    "title": {
+      "en": "7CS134: Data Mining and Analytics",
+      "my": "7CS134: Data Mining and Analytics"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "assessments": []
+  },
+  {
+    "id": 7,
+    "subject": {
+      "en": "Applied Database Systems",
+      "my": "Applied Database Systems"
+    },
+    "title": {
+      "en": "7CS132: Applied Database Systems",
+      "my": "7CS132: Applied Database Systems"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "assessments": []
+  },
+  {
+    "id": 8,
+    "subject": {
+      "en": "Advanced Software Engineering",
+      "my": "Advanced Software Engineering"
+    },
+    "title": {
+      "en": "7CS123: Advanced Software Engineering",
+      "my": "7CS123: Advanced Software Engineering"
+    },
+    "credit": {
+      "en": "15",
+      "my": "15"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "",
+      "my": ""
+    },
+    "learning_outcome": [],
+    "assessments": []
+  },
+  {
+    "id": 9,
+    "subject": {
+      "en": "ITM and Computer Science Dissertation",
+      "my": "ITM and Computer Science Dissertation"
+    },
+    "title": {
+      "en": "7CS139: ITM and Computer Science Dissertation",
+      "my": "7CS139: ITM and Computer Science Dissertation"
+    },
+    "credit": {
+      "en": "60",
+      "my": "60"
+    },
+    "learning_hour": {
+      "en": "1 Semester",
+      "my": "1 Semester"
+    },
+    "module_overview": {
+      "en": "Whether you decide to progress to further study or to a career in industry, one of the most important skills expected of an effective graduate in Information Technology Management or Computer Science is the ability to work creatively under the appropriate guidance of an organisation. It is therefore essential that you use and develop the skills and knowledge gained from other modules and from your wider educational and./or working background in a major integrative exercise. This project module is the ideal vehicle for this purpose. You will be expected to develop an idea (guided by a member of academic staff) and demonstrate your ability to develop it further, producing a suitable artefact by applying your technical, analytical, practical and managerial skills in an integrated manner.",
+      "my": "Whether you decide to progress to further study or to a career in industry, one of the most important skills expected of an effective graduate in Information Technology Management or Computer Science is the ability to work creatively under the appropriate guidance of an organisation. It is therefore essential that you use and develop the skills and knowledge gained from other modules and from your wider educational and./or working background in a major integrative exercise. This project module is the ideal vehicle for this purpose. You will be expected to develop an idea (guided by a member of academic staff) and demonstrate your ability to develop it further, producing a suitable artefact by applying your technical, analytical, practical and managerial skills in an integrated manner."
+    },
+    "learning_outcome": [
+      {
+        "en": "LO1 Demonstrate a deep and systematic understanding of a selected specialist area of their subject area, including issues at the forefront of research or professional practice in that area, and this will be demonstrated by your ability to articulate this knowledge in Viva Voce.",
+        "my": "LO1 Demonstrate a deep and systematic understanding of a selected specialist area of their subject area, including issues at the forefront of research or professional practice in that area, and this will be demonstrated by your ability to articulate this knowledge in Viva Voce."
+      },
+      {
+        "en": "LO2 Independently design and undertake a substantial investigation that rigorously tackles a complex problem in an area of the chosen academic subject, selecting appropriate methodological processes and critically evaluating their effectiveness. ",
+        "my": "LO2 Independently design and undertake a substantial investigation that rigorously tackles a complex problem in an area of the chosen academic subject, selecting appropriate methodological processes and critically evaluating their effectiveness. "
+      },
+      {
+        "en": "LO3 Produce a high level report that encompasses all the requirements of  a level 7 dissertation. The report should have an in- depth literature review, artefact design, implementation and testing, and finally a critical review of the findings of the dissertation. ",
+        "my": "LO3 Produce a high level report that encompasses all the requirements of  a level 7 dissertation. The report should have an in- depth literature review, artefact design, implementation and testing, and finally a critical review of the findings of the dissertation. "
+      }
+    ],
+    "assessments": [
+      {
+        "en": "Dissertation Report (80%) that clearly articulates the artefact designed, developed and tested with scientific evidence on the quality of analysis, originality and depth, research conducted, and references used, and overall presentation including structure and clarity. The dissertation report should also include evidence on the appropriate management of project work (effective meetings with surpervisor, initiatives shown in project definition, documentation , timing, process of investigation, etc)",
+        "my": "Dissertation Report (80%) that clearly articulates the artefact designed, developed and tested with scientific evidence on the quality of analysis, originality and depth, research conducted, and references used, and overall presentation including structure and clarity. The dissertation report should also include evidence on the appropriate management of project work (effective meetings with surpervisor, initiatives shown in project definition, documentation , timing, process of investigation, etc)"
+      },
+      {
+        "en": "Viva Voce (20%) to presents and defend the overall work produces. Emphasis should be placed on conformance of requirements, relevance, detail, quality of presentation and ability to answer questions.",
+        "my": "Viva Voce (20%) to presents and defend the overall work produces. Emphasis should be placed on conformance of requirements, relevance, detail, quality of presentation and ability to answer questions."
+      }
+    ]
+  }
+]

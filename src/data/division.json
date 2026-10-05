@@ -1,0 +1,20 @@
+[
+  { "id": "1", "name": "Ayeyarwady Division" },
+  { "id": "2", "name": "Bago East" },
+  { "id": "3", "name": "Bago West" },
+  { "id": "4", "name": "Chin State" },
+  { "id": "5", "name": "Kachin State" },
+  { "id": "6", "name": "Kayah State" },
+  { "id": "7", "name": "Kayin State" },
+  { "id": "8", "name": "Magway Division" },
+  { "id": "9", "name": "Mandalay Division" },
+  { "id": "10", "name": "Mon State" },
+  { "id": "11", "name": "Rakhine State" },
+  { "id": "12", "name": "Sagaing Division" },
+  { "id": "13", "name": "Shan State(East)" },
+  { "id": "14", "name": "Shan State(North)" },
+  { "id": "15", "name": "Shan State(South)" },
+  { "id": "16", "name": "Tanintharyi Division" },
+  { "id": "17", "name": "Yangon Division" },
+  { "id": "18", "name": "NayPyiTaw Division" }
+]

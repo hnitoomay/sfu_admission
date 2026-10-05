@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "strategy": {
+      "en": "At the core of our MBA program is the commitment to offer an educational journey that is both enriching and practical for individuals with a strong interest in business operations and management.",
+      "my": "ကျွန်ုပ်တို့၏ MBA အစီအစဉ်သည် စီးပွားရေးလုပ်ငန်းလည်ပတ်မှုနှင့် စီမံခန့်ခွဲမှုတို့ကို အထူးစိတ်ဝင်စားသူများအတွက် အသိပညာတိုးပွားစေပြီး လက်တွေ့အသုံးချနိုင်သော ပညာရေးအတွေ့အကြုံကို ပေးအပ်ရန် အဓိကရည်ရွယ်ထားပါသည်။"
+    },
+    "language": {
+      "en": "Students can choose either Burmese or English. If the students choose to do the assessment in Burmese (even for one course), the transcript will mention the assessments are done in Burmese.",
+      "my": "ကျောင်းသားများသည် မြန်မာဘာသာ သို့မဟုတ် အင်္ဂလိပ်ဘာသာဖြင့် သင်ယူရန် ရွေးချယ်နိုင်ပါသည်။ ကျောင်းသားတစ်ဦးသည် ဘာသာရပ်တစ်ခုတည်းအတွက်ဖြစ်စေ အကဲဖြတ်မှုကို မြန်မာဘာသာဖြင့် ဖြေဆိုရန် ရွေးချယ်ပါက အကဲဖြတ်မှုများကို မြန်မာဘာသာဖြင့် ဖြေဆိုခဲ့ကြောင်း အမှတ်စာရင်းတွင် ဖော်ပြမည်ဖြစ်ပါသည်။"
+    },
+    "approach": {
+      "en": "Case-based Lessons.",
+      "my": "ဖြစ်ရပ်အခြေပြု သင်ခန်းစာများ။"
+    }
+  }
+]

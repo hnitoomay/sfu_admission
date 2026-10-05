@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "img": "/img/teacher/u-sein-min.jpg",
+    "name": {
+      "en": "Prof. Dr. U Sein Min",
+      "my": "ဒေါက်တာ ဦးစိန်မင်း"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons), M. Com (YIE), Ph.D Marketing, (University of Passau, Germany) SDALT (Singapore)",
+        "my": "B. Com (Hons), M. Com (YIE), Ph.D Marketing, (University of Passau, Germany) SDALT (Singapore)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/img/teacher/prof-dr-daw-ohnmar-myint.jpg",
+    "name": {
+      "en": "Prof. Dr. Daw Ohnmar Myint",
+      "my": "ဒေါက်တာ ဒေါ်ဥမ္မာမြင့်"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons), M. Com (YIE), Ph.D. (HRM, Delhi University)",
+        "my": "B. Com (Hons), M. Com (YIE), Ph.D. (HRM, Delhi University)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/img/teacher/daw-htay-htay-myint.jpg",
+    "name": {
+      "en": "Daw Htay Htay Myint",                                                                
+      "my": "ဒေါ်ဌေးဌေးမြင့်"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons)",
+        "my": "B. Com (Hons)"
+      },
+      {
+        "en": "M. Com (YIE)",
+        "my": "M. Com (YIE)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/img/teacher/daw-khin-nwe-ohn.jpg",
+    "name": {
+      "en": "Daw Khin Nwe Ohn",
+      "my": "ဒေါ်ခင်နွယ်အုန်း"
+    },
+    "degree": [
+      {
+        "en": "B. Com (Hons, YIE)",
+        "my": "B. Com (Hons, YIE)"
+      },
+      {
+        "en": "M. Com",
+        "my": "M. Com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/img/teacher/dr-Thaung-Han-1.jpg",
+    "name": {
+      "en": "Dr. Thaung Han",
+      "my": "ဒေါက်တာသောင်းဟန်"
+    },
+    "degree": [
+      {
+        "en": "CEO, Max Myanmar Holding Co. Ltd",
+        "my": "CEO, Max Myanmar Holding Co. Ltd"
+      },
+      {
+        "en": "M.B.,B.S (Institute of Medicine, Mandalay)",
+        "my": "M.B.,B.S (Institute of Medicine, Mandalay)"
+      },
+      {
+        "en": "DBI (Yangon University)",
+        "my": "DBI (Yangon University)"
+      },
+      {
+        "en": "EMBA (Yangon Institute of Economics)",
+        "my": "EMBA (Yangon Institute of Economics)"
+      },
+      {
+        "en": "MBA (Purdue University)",
+        "my": "MBA (Purdue University)"
+      },
+      {
+        "en": "Ph.D (University of Texas at El Paso)",
+        "my": "Ph.D (University of Texas at El Paso)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "/img/teacher/daw-soe-soe.jpg",
+    "name": {
+      "en": "Daw Soe Soe",
+      "my": "ဒေါ်စိုးစိုး"
+    },
+    "degree": [
+      {
+        "en": "BBA (ABAC)",
+        "my": "BBA (ABAC)"
+      },
+      {
+        "en": "Master of International Business Administration (University of Northumbria, UK)",
+        "my": "Master of International Business Administration (University of Northumbria, UK)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "/img/teacher/u-win-thu-aung.jpg",
+    "name": {
+      "en": "U Win Thu Aung",
+      "my": "ဦးဝင်သူအောင်"
+    },
+    "degree": [
+      {
+        "en": "B.A (Political Science) University of Nevada",
+        "my": "B.A (Political Science) University of Nevada"
+      },
+      {
+        "en": "USA, MSc (Financial Engineering) World Quant University",
+        "my": "USA, MSc (Financial Engineering) World Quant University"
+      },
+      {
+        "en": "USA, MPA (University of Illinois, USA)",
+        "my": "USA, MPA (University of Illinois, USA)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "/img/teacher/mba/Daw-Cho-Thiri-Maung.jpg",
+    "name": {
+      "en": "Daw Cho Thiri Maung",
+      "my": "ဒေါ်ချိုသိရီမောင်"
+    },
+    "degree": [
+      {
+        "en": "MBA (YIE)",
+        "my": "MBA (YIE)"
+      },
+      {
+        "en": "MBA (Hitotsubashi University, Tokyo)",
+        "my": "MBA (Hitotsubashi University, Tokyo)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "img": "/img/teacher/mba/Daw-May-Myat-Thu.jpg",
+    "name": {
+      "en": "Daw May Myat Thu",
+      "my": "ဒေါ်မေမြတ်သူ"
+    },
+    "degree": [
+      {
+        "en": "MBA, EBS, Heriot-Watt University, UK",
+        "my": "MBA, EBS, Heriot-Watt University, UK"
+      },
+      {
+        "en": "B. Sc (Hons) in Economics & Management LSE University of London, UK",
+        "my": "B. Sc (Hons) in Economics & Management LSE University of London, UK"
+      }
+    ]
+  }
+]

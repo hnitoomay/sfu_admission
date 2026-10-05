@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "description": {
+      "en": "The MSc (Computer Science) programme from the University of Wolverhampton provides students with advanced knowledge and practical skills required to succeed in today’s rapidly evolving technology landscape. Designed to develop technical expertise, analytical thinking, and problem-solving capabilities, the programme prepares students to address complex computing challenges in modern industries.\n\n Through a combination of academic learning and practical application, students gain valuable experience in emerging technologies, enhance their professional capabilities, and develop the confidence needed to pursue successful careers in the technology sector.",
+      "my": "University of Wolverhampton မှ MSc (Computer Science) Programme သည် ယနေ့ခေတ် လျင်မြန်စွာ ပြောင်းလဲတိုးတက်နေသော Technology Landscape အတွင်း အောင်မြင်စွာ လုပ်ကိုင်နိုင်ရန် လိုအပ်သော အဆင့်မြင့် Computing Knowledge များနှင့် လက်တွေ့အသုံးချနိုင်သော Technical Skills များကို ဖွံ့ဖြိုးတိုးတက်စေရန် ရည်ရွယ်ထားပါသည်။ ဤ Programme မှတစ်ဆင့် ကျောင်းသားများသည် Technical Expertise၊ Analytical Thinking နှင့် Problem-Solving Skills များကို တိုးတက်စေပြီး ခေတ်သစ် စက်မှုလုပ်ငန်းများတွင် ကြုံတွေ့ရသော ရှုပ်ထွေးသော Computing Challenges များကို ဖြေရှင်းနိုင်မည့် အရည်အချင်းများကို ရရှိမည်ဖြစ်ပါသည်။ Academic Learning နှင့် Practical Application များကို ပေါင်းစပ်လေ့လာခြင်းအားဖြင့် ကျောင်းသားများသည် Emerging Technologies များအပေါ် နားလည်မှု၊ Professional Capabilities နှင့် Technology Sector အတွင်း အောင်မြင်သော Career လမ်းကြောင်းများ တည်ဆောက်နိုင်မည့် ယုံကြည်မှုများကို ဖွံ့ဖြိုးတိုးတက်စေပါသည်။"
+    },
+    "aim_of_the_program": [
+      {
+        "en": "The MSc in Computer Science, awarded by the University of Wolverhampton and delivered in partnership with Strategy First International College in Myanmar, is designed to provide students with advanced computing knowledge and specialist technical skills. The programme focuses on key areas including Artificial Intelligence, Machine Learning, Data Science, Computing Research Methods, Web Technologies, Advanced Mobile Application Development, and Mobile App Development. Through these areas, students develop the ability to analyse, design, and implement effective technology solutions for real-world applications.",
+        "my": "University of Wolverhampton မှ ချီးမြှင့်သော MSc (Computer Science) Programme ကို Strategy First International College (Myanmar) နှင့် ပူးပေါင်း၍ ဖွင့်လှစ်ထားပြီး ကျောင်းသားများအား အဆင့်မြင့် Computing Knowledge များနှင့် အထူးပြု Technical Skills များ ရရှိစေရန် ရည်ရွယ်ထားပါသည်။ ဤ Programme တွင် Artificial Intelligence (AI)၊ Machine Learning၊ Data Science၊ Computing Research Methods၊ Web Technologies၊ Advanced Mobile Application Development နှင့် Mobile App Development စသည့် ခေတ်မီ Computing နယ်ပယ်များကို အဓိကထား လေ့လာရမည်ဖြစ်ပါသည်။ ဤဘာသာရပ်များမှတစ်ဆင့် ကျောင်းသားများသည် Technology Solutions များကို ခွဲခြမ်းစိတ်ဖြာခြင်း၊ ဒီဇိုင်းရေးဆွဲခြင်းနှင့် လက်တွေ့အသုံးချနိုင်မည့် စွမ်းရည်များကို ဖွံ့ဖြိုးတိုးတက်စေပြီး လုပ်ငန်းခွင်တွင် အသုံးချနိုင်သော Computing Solutions များ ဖန်တီးနိုင်မည်ဖြစ်ပါသည်။"
+      }
+    ],
+    "knowledge": [
+      {
+        "en": "Emerging technologies including Artificial Intelligence, Machine Learning, and Data Science",
+        "my": "AI၊ Machine Learning နှင့် Data Science ကဲ့သို့ လုပ်ငန်းခွင်တွင် လိုအပ်ချက်မြင့်မားသော နယ်ပယ်များ၌ အထူးပြုကျွမ်းကျင်မှုများ ဖွံ့ဖြိုးစေခြင်း"
+      },
+      {
+        "en": "Industry-relevant computing concepts and up-to-date technical practices",
+        "my": "လုပ်ငန်းနယ်ပယ်နှင့် ကိုက်ညီပြီး ခေတ်မီသည့် သင်ရိုးညွှန်းတမ်းမှ သင်ယူခြင်း"
+      },
+      {
+        "en": "Advanced computing methods, tools, and technologies used in modern applications",
+        "my": "နောက်ဆုံးပေါ် နည်းပညာများနှင့် ကိရိယာများကို အသုံးပြုသည့် လက်တွေ့အတွေ့အကြုံ ရရှိခြင်း"
+      },
+      {
+        "en": "Research approaches and methodologies within the field of Computer Science ",
+        "my": "သက်ဆိုင်ရာနယ်ပယ်တွင် လက်ရှိသုတေသနပြုလုပ်နေသော သုတေသီများ၏ အသိပညာနှင့် အတွေ့အကြုံများမှ အကျိုးကျေးဇူးရရှိခြင်း"
+      },
+      {
+        "en": "Technology trends and career opportunities in the computing industry ",
+        "my": "နည်းပညာလုပ်ငန်းနယ်ပယ်ရှိ ကျယ်ပြန့်သော အသက်မွေးဝမ်းကျောင်းအခွင့်အလမ်းများအတွက် အသင့်ပြင်ဆင်ခြင်း"
+      }
+    ],
+    "skill_development": [
+      {
+        "en": "Applying advanced Computer Science principles and techniques to solve complex computing problems",
+        "my": "Advanced Computer Science Principles နှင့် Techniques များကို အသုံးချ၍ ရှုပ်ထွေးသော Computing Problems များကို ဖြေရှင်းနိုင်မှု"
+      },
+      {
+        "en": "Designing and developing technology solutions using modern programming approaches and tools",
+        "my": "Modern Programming Approaches နှင့် Tools များကို အသုံးပြု၍ Technology Solutions များကို ဒီဇိုင်းရေးဆွဲ ဖန်တီးနိုင်မှု"
+      },
+      {
+        "en": "Understanding and applying concepts related to Artificial Intelligence, Machine Learning, Data Science, and emerging technologies",
+        "my": "Artificial Intelligence၊ Machine Learning၊ Data Science နှင့် Emerging Technologies များ၏ Concepts များကို နားလည်အသုံးချနိုင်မှု"
+      },
+      {
+        "en": "Using appropriate tools, methodologies, and techniques to develop effective software and computing applications ",
+        "my": "Software နှင့် Computing Applications များ ဖန်တီးရန် သင့်လျော်သော Tools၊ Methodologies နှင့် Techniques များကို အသုံးချနိုင်မှု"
+      },
+      {
+        "en": "Analysing and evaluating technology solutions to support data-driven decision-making",
+        "my": "Technology Solutions များကို သုံးသပ်အကဲဖြတ်၍ Data-driven Decisions များ ချမှတ်နိုင်မှု"
+      },
+      {
+        "en": "Conducting independent research and applying advanced Computer Science knowledge to real-world challenges",
+        "my": "Independent Research ပြုလုပ်၍ Advanced Computer Science Knowledge များကို လက်တွေ့ပြဿနာများတွင် အသုံးချနိုင်မှု"
+      }
+    ]
+  }
+]

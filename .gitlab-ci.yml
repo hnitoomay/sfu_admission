@@ -1,0 +1,19 @@
+build_project:
+  image: node:20
+  script:
+    - npm install
+    - npm run build
+
+deploy_production:
+  stage: deploy
+  only:
+    - main
+  before_script:
+    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRIVATE_KEY_PRODUCTION")
+    - mkdir -p ~/.ssh
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+  script:
+    - ssh root@152.42.231.98 "source /root/.nvm/nvm.sh && cd /var/www/adminssion && git reset --hard && git pull origin main && /root/.nvm/versions/node/v20.12.2/bin/npm install && /root/.nvm/versions/node/v20.12.2/bin/npm run build && exit"
+
